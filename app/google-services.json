@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "812044022879",
+    "firebase_url": "https://ptitquiz-b8e26.firebaseio.com",
+    "project_id": "ptitquiz-b8e26",
+    "storage_bucket": "ptitquiz-b8e26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812044022879:android:b6dbb98d1f5de470",
+        "android_client_info": {
+          "package_name": "com.example.ptitquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812044022879-fk7b7u4mtad4poj4tc8mggio5ii2hdgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ptitquiz",
+            "certificate_hash": "fefe623940d631634234acee014bd460875a47f6"
+          }
+        },
+        {
+          "client_id": "812044022879-f9mdhjtk3fc4t8n9fj48sgqeng5shk2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ptitquiz",
+            "certificate_hash": "813fdd116acafc6b6f9189ae4b28a13b00b89d07"
+          }
+        },
+        {
+          "client_id": "812044022879-qt6ak9ef6if2ekus63a312mgt6r8v710.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJIjMCrccxYPU7xK_KX6Cx8RhUjzjG-Fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812044022879-qt6ak9ef6if2ekus63a312mgt6r8v710.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
