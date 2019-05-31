@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mlp.arv.projectx.test.modulex.Main2Activity">
+    <item
+        android:id="@+id/refresh"
+        android:orderInCategory="100"
+<<<<<<< HEAD
+        android:title="Làm mới danh sách"
+=======
+        android:title="Refresh"
+>>>>>>> b59571816ec6d783cf6145b1344aed82bd808728
+        android:onClick="refresh"
+        app:showAsAction="never" />
+</menu>

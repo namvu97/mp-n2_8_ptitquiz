@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@drawable/wall1"
+    android:orientation="vertical"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView
+            android:id="@+id/timeUpText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Hết giờ"
+            android:layout_marginTop="200dp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp" />
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/timer"/>
+        <Button
+            android:id="@+id/btnview_result"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Xem kết quả"
+            android:background="#AD1457"
+            android:textColor="#FFFFFF"/>
+    </LinearLayout>

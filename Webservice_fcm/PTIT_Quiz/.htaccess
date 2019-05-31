@@ -1,0 +1,14 @@
+#Bat che do rewrite url
+RewriteEngine On
+
+#rewrite url: /trang-chu
+RewriteRule ^trang-chu$ index.php?controller=index.php
+
+#rewrite url: /tao_dot_thi
+RewriteRule ^tao_dot_thi-sinhvien1$ admin.php?controller=schedule&send_notification&token=fZnyuM8eesM:APA91bFm37aQvaJ3vl-sUCtipmC0otJupLIgHlqeqqSMK36GyRUIuDLTnRKOBEuTHp1yPXIWuXcB0pP5TTDXTBHolXN1SzUOhNKFAPLhSKFAc4ppEBB6TBFGGPD26YBAsIBFhwRjlmV-
+
+#rewrite url: /tao_dot_thi
+RewriteRule ^tao_dot_thi-sinhvien2$ admin.php?controller=schedule&send_notification&token=dg3vgiXR3Gg:APA91bHJCxupcH_lcDM852u2tX_QLj8IQ-yA3ZPA5tJuBN9ZtKTW4wb0Dm6F2fMRKuYspmXO3ZNsanWYmruvtlE5ysXs6LBRuexbgDcYvGFi296Eb_3Su4POJGsmfWvbLTaCcpijjK5K
+
+#rewrite url: /tao_dot_thi
+RewriteRule ^tao_dot_thi-sinhvien3$ admin.php?controller=schedule&send_notification&token=dX_XdeOilg4:APA91bEZdsP3c_FI-yFYfHAVc9HKEbzeJrfGrFwVzZu4iy6d9fVf6iqL2PdXmIhySgfP3VdrBnQrK-jIrDf8MWGdhxzTqy_EjGVTRWpW5boGDS_ryL5DsSDmJiCPz1fplMPgtsdeADnH

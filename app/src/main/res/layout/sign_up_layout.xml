@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <EditText
+        android:id="@+id/edtUserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:hint="Tài khoản"
+        android:drawableLeft="@drawable/user"
+        android:inputType="textPersonName"
+        android:textColor="#000000"
+        android:background="#ffffff"
+        android:layout_margin="8dp"/>
+    <EditText
+        android:id="@+id/edtPassWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edtUserName"
+        android:hint="Mật khẩu"
+        android:drawableLeft="@drawable/lock"
+        android:inputType="textPassword"
+        android:textColor="#000000"
+        android:background="#ffffff"
+        android:layout_margin="8dp"/>
+    <EditText
+        android:id="@+id/edtEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edtPassWord"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:drawableLeft="@drawable/email"
+        android:textColor="#000000"
+        android:background="#ffffff"
+        android:layout_margin="8dp"/>
+</android.support.constraint.ConstraintLayout>

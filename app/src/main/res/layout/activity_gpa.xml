@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:padding="16dp"
+        tools:context=".MyAppPTITQuiz.GPA">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="14dp"
+        android:layout_gravity="center"
+        android:text="   TÍNH ĐIỂM TRUNG BÌNH MÔN  "
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+    <Spinner
+        android:layout_gravity="center"
+        android:id="@+id/spnChonmon"
+        android:layout_width="210dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginBottom="17dp"
+        android:layout_marginRight="8dp"
+        android:textColor="#000000"></Spinner>
+    <EditText
+        android:layout_gravity="center"
+        android:id="@+id/txtCC"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Chuyên cần"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:layout_gravity="center"
+        android:id="@+id/txtKT"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Kiểm tra"
+        android:inputType="numberDecimal" />
+    <EditText
+        android:layout_gravity="center"
+        android:id="@+id/txtBTL"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Bài tập lớn"
+        android:inputType="numberDecimal" />
+    <EditText
+        android:layout_gravity="center"
+        android:id="@+id/txtTHI"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Thi học kỳ"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:layout_gravity="center"
+        android:id="@+id/btnCal"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/c7"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="Tính điểm"
+        android:textColor="#ffffff"
+        android:textSize="16dp"
+        android:textStyle="bold" />
+
+</LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/btnGoiY"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/icongoiy"
+                android:gravity="center"
+                android:textAllCaps="false"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="290dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+        </android.support.constraint.ConstraintLayout>
+
+        <TextView
+
+            android:id="@+id/txtQuestion"
+            android:paddingTop="18dp"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:text="Câu hỏi ABCXYZ"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+        </LinearLayout>
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:background="#3E454F">
+            <Button
+                android:layout_marginTop="30dp"
+                app:layout_constraintTop_toTopOf="parent"
+                android:id="@+id/btnAnswer1"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:background="#00468F"
+                android:textSize="15sp"/>
+            <Button
+                android:layout_marginTop="25dp"
+                app:layout_constraintTop_toBottomOf="@+id/btnAnswer1"
+                android:id="@+id/btnAnswer2"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:background="#00468F"
+                android:textSize="15sp"/>
+            <Button
+                android:layout_marginTop="25dp"
+                app:layout_constraintTop_toBottomOf="@+id/btnAnswer2"
+                android:id="@+id/btnAnswer3"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:background="#00468F"
+                android:textSize="15sp"/>
+            <Button
+                android:layout_marginTop="25dp"
+                app:layout_constraintTop_toBottomOf="@+id/btnAnswer3"
+                android:id="@+id/btnAnswer4"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:background="#00468F"
+                android:textSize="15sp"/>
+
+
+
+        </android.support.constraint.ConstraintLayout>
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TableRow>
+        <TextView
+            android:id="@+id/textViewGio"
+            android:layout_width="155dp"
+            android:layout_height="50dp"
+            android:text="Thời gian"
+            android:background="@drawable/cell_shape"
+            android:gravity="center"
+            android:textSize="17sp"
+            android:textColor="#000000"/>
+        <TextView
+            android:layout_width="220dp"
+            android:layout_height="50dp"
+            android:text="Nội Dung"
+            android:textSize="17sp"
+            android:background="@drawable/cell_shape"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:id="@+id/textViewNoidung"/>
+    </TableRow>
+
+</TableLayout>

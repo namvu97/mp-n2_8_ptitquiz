@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:orientation="vertical"
+    android:background="@color/blackbgr"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MyAppPTITQuiz.selectsubject"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioGroup
+            android:id="@+id/radio_Group"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RadioButton
+                android:textStyle="bold"
+                android:layout_margin="5dp"
+                android:textSize="25sp"
+                android:text="Kiểm tra"
+                android:button="@drawable/custom_radiobutton"
+
+                android:textColor="@color/white"
+                android:id="@+id/radio_quiz"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <RadioButton
+                android:textStyle="bold"
+                android:text="Ôn tập"
+                android:textColor="@color/white"
+                android:button="@drawable/custom_radiobutton"
+                android:layout_margin="5dp"
+                android:textSize="25sp"
+                android:id="@+id/radio_review"
+                android:layout_below="@+id/radio_quiz"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+
+
+        </RadioGroup>
+
+
+
+        <RelativeLayout
+            android:id="@+id/reLayoutSelectChuong"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp">
+            <TextView
+                android:textColor="@color/common_google_signin_btn_text_dark"
+                android:id="@+id/chonChuong"
+                android:textSize="25sp"
+                android:gravity="center_horizontal"
+                android:background="@color/blue"
+
+                android:text="Chọn Chương"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                />
+
+            <CheckBox
+
+                android:id="@+id/chk_giaithich"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_toRightOf="@+id/spnChonChuong"
+                android:layout_alignParentBottom="true"
+                android:checked="true"
+                android:button="@drawable/custom_checkbox"
+                android:layout_marginBottom="5dp"
+                android:text="Có giải thích khi sai!"
+                android:textColor="@color/white" />
+
+            <Spinner
+                android:id="@+id/spnChonChuong"
+                style="@android:style/Widget.Spinner.DropDown"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="16dp"
+                android:layout_marginBottom="13dp"
+                android:background="@drawable/custom_spinner_icon"
+                android:ellipsize="marquee"
+
+                android:textStyle="bold"
+                />
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnSelect"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="LÀM BÀI" />
+
+
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        tools:context="com.example.ptitquiz.MyAppPTITQuiz">
+        <TextView
+            android:background="@color/blue"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:id="@+id/tvtitlemucluc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mục lục môn "
+            android:textSize="20sp"
+
+            />
+        <!--<TextView-->
+        <!--android:textColor="@color/common_google_signin_btn_text_dark"-->
+        <!--android:id="@+id/chonChuong"-->
+        <!--android:gravity="center"-->
+        <!--android:textSize="30sp"-->
+        <!--android:text="Chọn chương"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
+        <!--<Spinner-->
+        <!--android:id="@+id/spnChonChuong"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_below="@+id/chonChuong"-->
+        <!--android:background="#fff"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_width="70dp"-->
+        <!--android:layout_height="50dp"-->
+        <!--android:theme="@android:style/Theme.Holo.Light.DarkActionBar"/>-->
+        <ListView
+            android:id="@+id/lv_mucluc"
+            android:background="@color/darkGray"
+            android:layout_margin="16dp"
+            android:layout_below="@id/tvtitlemucluc"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></ListView>
+    </RelativeLayout>
+</LinearLayout>

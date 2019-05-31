@@ -1,0 +1,2299 @@
+{
+  "Notifications" : {
+    "Atbm" : [ null, {
+      "answer" : "Trojan Horse",
+      "question" : "Một chương trình nằm trong một chương trình khác được cài vào hệ thống gọi là một: A. B. C."
+    }, {
+      "answer" : "Trinh sát",
+      "question" : "Giai đoạn đầu của hacking là gì?"
+    }, {
+      "answer" : "Mã hóa dữ liệu",
+      "question" : "Cần phải làm gì để bảo vệ dữ liệu trên một máy tính xách tay nếu nó bị lấy cắp ?"
+    } ],
+    "Ltw" : [ null, {
+      "answer" : "$_GET[];",
+      "question" : "Trong PHP, làm thế nào để lấy thông tin từ 1 form được submit sử dụng phương thức GET?"
+    }, {
+      "answer" : "Thuộc tính sự kiện",
+      "question" : "Trong HTML, onblur và onfocus là thuộc tính loại gì?"
+    }, {
+      "answer" : "<br>",
+      "question" : "Phần tử HTML để ngắt dòng:"
+    } ],
+    "Mmt" : [ null, {
+      "answer" : "Có cấu trúc đa tầng",
+      "question" : "Các mạng máy tính được thiết kế và cài đặt theo quan điểm"
+    }, {
+      "answer" : "128 bit",
+      "question" : "IPv6 có không gian địa chỉ là (bit)"
+    }, {
+      "answer" : "TCP",
+      "question" : "Giao thức nào cung cấp tính năng vận chuyển gói tin có độ tin cậy cao"
+    } ],
+    "Qldapm" : [ null, {
+      "answer" : "Rút lui (withdrawing)",
+      "question" : "Kỹ thuật giải quyết xung đột có thể đc sử dụng trong dự án bao gồm: đối đầu, làm bình lặng (smoothing), vũ lực và"
+    }, {
+      "answer" : "Theo sau hệ thống kiểm soát thay đổi",
+      "question" : "Một PM đang quản lý một hợp đồng có giá sẵn (fixed price contract). Cô ấy nghĩ rằng một thay đổi lớn từ yêu cầu của khách hàng sẽ ảnh hưởng tới lịch trình dự án. Cô ấy nên làm gì đầu tiên?"
+    } ],
+    "Wul" : [ null, {
+      "answer" : "ifconfig eth0 stop",
+      "question" : "Để tạm thời stop một card mạng ta dùng lệnh nào"
+    }, {
+      "answer" : "Tên đăng nhập",
+      "question" : "Khi tạo một tài khoản người dùng, thông tin nào bắt buộc phải được cung cấp"
+    } ],
+    "Xstk" : [ null, {
+      "answer" : "7,6",
+      "question" : "Cho X và Y là hai biến ngẫu nhiên độc lập có phương sai lần lượt là D(X)=1,2 và D(Y)=1,6. Khi đó phương sai D(X−2Y) bằng"
+    }, {
+      "answer" : "1/2",
+      "question" : "Chọn ngẫu nhiên 3 bạn từ một tổ có 6 bạn nam và 4 bạn nữ để làm trực nhật. Xác suất để có đúng 2 bạn là nam bằng"
+    } ]
+  },
+  "QuestionReview" : {
+    "Atbm" : {
+      "C1" : [ null, {
+        "ans1" : "Polymorphic virus",
+        "ans2" : "Armored virus",
+        "ans3" : "Sâu",
+        "ans4" : "Trojan Horse",
+        "answer" : "Trojan Horse",
+        "goiy" : "Cuộc chiến thành Troy",
+        "question" : "Một chương trình nằm trong một chương trình khác được cài vào hệ thống gọi là một "
+      }, {
+        "ans1" : "stealth, cư trú bộ nhớ, macro, lưỡng tính, file",
+        "ans2" : "virus ký sinh, cư trú bộ nhớ, boot sector, Stealth, đa hình, macro",
+        "ans3" : "virus ký sinh, file, boot sector, stealth, cư trú bộ nhớ, macro",
+        "ans4" : "stealth, cư trú bộ nhớ, macro, đa hình, file",
+        "answer" : "stealth, cư trú bộ nhớ, macro, đa hình, file",
+        "goiy" : "Có 5 loại chính",
+        "question" : "Các dạng sau đây, dạng nào là của virus"
+      }, {
+        "ans1" : "Đa yếu tố ( multi-factor)",
+        "ans2" : "Sinh trắc học",
+        "ans3" : "Thẻ thông minh",
+        "ans4" : "Keberos",
+        "answer" : "Đa yếu tố ( multi-factor)",
+        "goiy" : "Đọc kỹ lại câu hỏi!",
+        "question" : "Qui trình xác thực nào sử dụng nhiều hơn một yếu tố xác thực để logon ?"
+      } ],
+      "C2" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "C3" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "mucluc" : {
+        "C1" : "Chương 1: Tổng quan về an toàn bảo mật hệ thống thông tin",
+        "C2" : "Chương 2: Các nguy cơ và các dạng tấn công thường gặp",
+        "C3" : "Chương 3: Điều khiển truy cập và xác thực người dùng"
+      }
+    },
+    "Ltw" : {
+      "C1" : [ null, {
+        "ans1" : "Thuộc tính sự kiện",
+        "ans2" : "Thẻ",
+        "ans3" : "Thuộc tính kiểu cách",
+        "ans4" : "Cả 3 đáp án trên đều sai",
+        "answer" : "Thuộc tính sự kiện",
+        "goiy" : "Có thể được sử dụng trong 1 thẻ",
+        "question" : "Trong HTML, onblur và onfocus là"
+      }, {
+        "ans1" : "Hyperlinks and Text Markup Language",
+        "ans2" : "Home Tool Markup Language",
+        "ans3" : "Hyper Text Markup Language",
+        "ans4" : "Hyper Tool Markup Language",
+        "answer" : "Hyper Text Markup Language",
+        "goiy" : "Ngôn ngữ đánh dấu siêu văn bản",
+        "question" : "HTML được hiểu là"
+      }, {
+        "ans1" : "//This comment has more than one line//",
+        "ans2" : "/*This comment has more than one line*/",
+        "ans3" : "<!--This comment has more than one line-->",
+        "ans4" : "<--This comment has more than one line-!>",
+        "answer" : "/*This comment has more than one line*/",
+        "goiy" : "Bắt đầu bằng ký tự /",
+        "question" : "Cách comment nhiều dòng trong JavaScript?"
+      } ],
+      "C2" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "C3" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "mucluc" : {
+        "C1" : "Chương 1: HTML-CSS",
+        "C2" : "Chương 2: Javascript",
+        "C3" : "Chương 3: PHP"
+      }
+    },
+    "Mmt" : {
+      "C1" : [ null, {
+        "ans1" : "512 byte",
+        "ans2" : "53 byte",
+        "ans3" : "128 byte",
+        "ans4" : "1500 byte",
+        "answer" : "53 byte",
+        "goiy" : "Khung dữ liệu của ATM có độ dài khá ngắn",
+        "question" : "Độ dài của khung dữ liệu của ATM là"
+      }, {
+        "ans1" : "Theo lớp",
+        "ans2" : "Có cấu trúc đa tầng",
+        "ans3" : "Tập hợp",
+        "ans4" : "Nhiều tầng",
+        "answer" : "Có cấu trúc đa tầng",
+        "goiy" : "Đa tầng",
+        "question" : "Các mạng máy tính được thiết kế và cài đặt theo quan điểm"
+      }, {
+        "ans1" : "IP",
+        "ans2" : "UDP",
+        "ans3" : "ARP",
+        "ans4" : "TCP",
+        "answer" : "TCP",
+        "goiy" : "Giao thức điều khiển giao vận",
+        "question" : "Giao thức nào cung cấp tính năng vận chuyển gói tin có độ tin cậy cao"
+      } ],
+      "C2" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "C3" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "mucluc" : {
+        "C1" : "Chương 1: Các giao thức cơ bản",
+        "C2" : "Chương 2: Phương tiện truyền thông",
+        "C3" : "Chương 3: Phân loại mạng máy tính"
+      }
+    },
+    "Qldapm" : {
+      "C1" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "C2" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "C3" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "mucluc" : {
+        "C1" : "C1-Qldapm",
+        "C2" : "C2-Qldapm",
+        "C3" : "C3-Qldapm"
+      }
+    },
+    "Wul" : {
+      "C1" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "C2" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "C3" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "mucluc" : {
+        "C1" : "C1-Wul",
+        "C2" : "C2-Wul",
+        "C3" : "C3-Wul"
+      }
+    },
+    "Xstk" : {
+      "C1" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "C2" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "C3" : [ null, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      }, {
+        "ans1" : "Ans A",
+        "ans2" : "Ans B",
+        "ans3" : "Ans C",
+        "ans4" : "Ans D",
+        "answer" : "Ans A",
+        "goiy" : "abc xyz",
+        "question" : "Câu hỏi là như sau!"
+      } ],
+      "mucluc" : {
+        "C1" : "C1-Xstk",
+        "C2" : "C2-Xstk",
+        "C3" : "C3-Xstk"
+      }
+    }
+  },
+  "Subject" : {
+    "Atbm" : {
+      "Đề 1" : [ null, {
+        "ans1" : "Polymorphic virus",
+        "ans2" : "Armored virus",
+        "ans3" : "Sâu",
+        "ans4" : "Trojan Horse",
+        "answer" : "Trojan Horse",
+        "question" : "Một chương trình nằm trong một chương trình khác được cài vào hệ thống gọi là một "
+      }, {
+        "ans1" : "virus ký sinh, file, boot sector, stealth, cư trú bộ nhớ, macro",
+        "ans2" : "stealth, cư trú bộ nhớ, macro, đa hình, file",
+        "ans3" : "virus ký sinh, cư trú bộ nhớ, boot sector, Stealth, đa hình, macro",
+        "ans4" : "stealth, cư trú bộ nhớ, macro, lưỡng tính, file",
+        "answer" : "stealth, cư trú bộ nhớ, macro, đa hình, file",
+        "question" : "Các dạng sau đây, dạng nào là của virus"
+      }, {
+        "ans1" : "Đa yếu tố ( multi-factor)",
+        "ans2" : "Sinh trắc học",
+        "ans3" : "Thẻ thông minh",
+        "ans4" : "Keberos",
+        "answer" : "Đa yếu tố ( multi-factor)",
+        "question" : "Qui trình xác thực nào sử dụng nhiều hơn một yếu tố xác thực để logon ?"
+      }, {
+        "ans1" : "Là một điểm chặn của trong quá trình điều khiển và giám sát.",
+        "ans2" : "Là một phần mềm hoặc phần ứng có khả năng ngăn chặn tấn công từ bên trong và bên ngoài vào hệ thống.",
+        "ans3" : "Fire wal là một vành đai phòng thủ cho máy tính hoặc hệ thống trước những tấn công",
+        "ans4" : "Là một giải pháp giúp hệ thống phát hiện và ngăn chặn các truy cập trái phép",
+        "answer" : "Là một phần mềm hoặc phần ứng có khả năng ngăn chặn tấn công từ bên trong và bên ngoài vào hệ thống.",
+        "question" : "Các phát biểu sau đây phát biểu là là đúng nhất"
+      }, {
+        "ans1" : "Ngựa trojan",
+        "ans2" : "Sâu",
+        "ans3" : "Stealth virus",
+        "ans4" : "Logic bomb",
+        "answer" : "Ngựa trojan",
+        "question" : "Loại mã nguồn độc hại nào có thể được cài đặt song không gây tác hại cho đến khi một hoạt động nào đó được kích hoạt ?"
+      }, {
+        "ans1" : "Mã hóa dữ liệu",
+        "ans2" : "Khóa đĩa mềm",
+        "ans3" : "Lưu trữ đều đặn trên CD-ROM",
+        "ans4" : "Enable khi login và tạo mật khẩu trên HĐH",
+        "answer" : "Mã hóa dữ liệu",
+        "question" : "Cần phải làm gì để bảo vệ dữ liệu trên một máy tính xách tay nếu nó bị lấy cắp ?"
+      }, {
+        "ans1" : "Hầu hết các thuật tóan mã hóa đối xứng đều dựa trên cấu trúc thuật toán Feistel",
+        "ans2" : "Tấn công thông điệp thì thời gian giải mã tỷ lệ với kích thước khóa",
+        "ans3" : "Hầu hết các thuật tóan mã hóa khối đều đối xứng",
+        "ans4" : "Tất cả đều đúng",
+        "answer" : "Tất cả đều đúng",
+        "question" : "Các phát biểu sau đây phát biểu nào đúng"
+      }, {
+        "ans1" : "Dò tìm (Scanning)",
+        "ans2" : "Gaining truy cập",
+        "ans3" : "Trinh sát",
+        "ans4" : "Duy trì truy cập",
+        "answer" : "Trinh sát",
+        "question" : "Giai đoạn đầu của hacking là gì?"
+      }, {
+        "ans1" : "Mỗi cột của ma trận state được nhân với một đa thức",
+        "ans2" : "Trộn hai cột kề nhau của ma trận state",
+        "ans3" : "Trộn các dòng tương ứng của ma trận state với khóa",
+        "ans4" : "Trộn các cột tương ứng của ma trận state với khóa",
+        "answer" : "Mỗi cột của ma trận state được nhân với một đa thức",
+        "question" : "Bước MixColumns (trộn cột) trong vòng lặp chuyển đổi trong hệ mã hóa AES thực hiện việc"
+      }, {
+        "ans1" : "Việc bảo vệ chống truy nhập, sử dụng, tiết lộ, sử đổi, hoặc phá hủy thông tin một cách trái phép",
+        "ans2" : "Việc đảm bảo an toàn cho hệ thống máy tính",
+        "ans3" : "Việc đảm bảo an toàn cho hệ thống mạng",
+        "ans4" : "Việc phòng chống tấn công, đột nhập vào hệ thống máy tính và mạng",
+        "answer" : "Việc bảo vệ chống truy nhập, sử dụng, tiết lộ, sử đổi, hoặc phá hủy thông tin một cách trái phép",
+        "question" : "An toàn thông tin (Information Security) là"
+      } ],
+      "Đề 2" : [ null, {
+        "ans1" : "Polymorphic virus",
+        "ans2" : "Armored virus",
+        "ans3" : "Sâu",
+        "ans4" : "Trojan Horse",
+        "answer" : "Trojan Horse",
+        "question" : "Một chương trình nằm trong một chương trình khác được cài vào hệ thống gọi là một "
+      }, {
+        "ans1" : "virus ký sinh, file, boot sector, stealth, cư trú bộ nhớ, macro",
+        "ans2" : "stealth, cư trú bộ nhớ, macro, đa hình, file",
+        "ans3" : "virus ký sinh, cư trú bộ nhớ, boot sector, Stealth, đa hình, macro",
+        "ans4" : "stealth, cư trú bộ nhớ, macro, lưỡng tính, file",
+        "answer" : "stealth, cư trú bộ nhớ, macro, đa hình, file",
+        "question" : "Các dạng sau đây, dạng nào là của virus"
+      }, {
+        "ans1" : "Đa yếu tố ( multi-factor)",
+        "ans2" : "Sinh trắc học",
+        "ans3" : "Thẻ thông minh",
+        "ans4" : "Keberos",
+        "answer" : "Đa yếu tố ( multi-factor)",
+        "question" : "Qui trình xác thực nào sử dụng nhiều hơn một yếu tố xác thực để logon ?"
+      }, {
+        "ans1" : "Là một điểm chặn của trong quá trình điều khiển và giám sát.",
+        "ans2" : "Là một phần mềm hoặc phần ứng có khả năng ngăn chặn tấn công từ bên trong và bên ngoài vào hệ thống.",
+        "ans3" : "Fire wal là một vành đai phòng thủ cho máy tính hoặc hệ thống trước những tấn công",
+        "ans4" : "Là một giải pháp giúp hệ thống phát hiện và ngăn chặn các truy cập trái phép",
+        "answer" : "Là một phần mềm hoặc phần ứng có khả năng ngăn chặn tấn công từ bên trong và bên ngoài vào hệ thống.",
+        "question" : "Các phát biểu sau đây phát biểu là là đúng nhất"
+      }, {
+        "ans1" : "Ngựa trojan",
+        "ans2" : "Sâu",
+        "ans3" : "Stealth virus",
+        "ans4" : "Logic bomb",
+        "answer" : "Ngựa trojan",
+        "question" : "Loại mã nguồn độc hại nào có thể được cài đặt song không gây tác hại cho đến khi một hoạt động nào đó được kích hoạt ?"
+      }, {
+        "ans1" : "Mã hóa dữ liệu",
+        "ans2" : "Khóa đĩa mềm",
+        "ans3" : "Lưu trữ đều đặn trên CD-ROM",
+        "ans4" : "Enable khi login và tạo mật khẩu trên HĐH",
+        "answer" : "Mã hóa dữ liệu",
+        "question" : "Cần phải làm gì để bảo vệ dữ liệu trên một máy tính xách tay nếu nó bị lấy cắp ?"
+      }, {
+        "ans1" : "Hầu hết các thuật tóan mã hóa đối xứng đều dựa trên cấu trúc thuật toán Feistel",
+        "ans2" : "Tấn công thông điệp thì thời gian giải mã tỷ lệ với kích thước khóa",
+        "ans3" : "Hầu hết các thuật tóan mã hóa khối đều đối xứng",
+        "ans4" : "Tất cả đều đúng",
+        "answer" : "Tất cả đều đúng",
+        "question" : "Các phát biểu sau đây phát biểu nào đúng"
+      }, {
+        "ans1" : "Dò tìm (Scanning)",
+        "ans2" : "Gaining truy cập",
+        "ans3" : "Trinh sát",
+        "ans4" : "Duy trì truy cập",
+        "answer" : "Trinh sát",
+        "question" : "Giai đoạn đầu của hacking là gì?"
+      }, {
+        "ans1" : "Mỗi cột của ma trận state được nhân với một đa thức",
+        "ans2" : "Trộn hai cột kề nhau của ma trận state",
+        "ans3" : "Trộn các dòng tương ứng của ma trận state với khóa",
+        "ans4" : "Trộn các cột tương ứng của ma trận state với khóa",
+        "answer" : "Mỗi cột của ma trận state được nhân với một đa thức",
+        "question" : "Bước MixColumns (trộn cột) trong vòng lặp chuyển đổi trong hệ mã hóa AES thực hiện việc"
+      }, {
+        "ans1" : "Việc bảo vệ chống truy nhập, sử dụng, tiết lộ, sử đổi, hoặc phá hủy thông tin một cách trái phép",
+        "ans2" : "Việc đảm bảo an toàn cho hệ thống máy tính",
+        "ans3" : "Việc đảm bảo an toàn cho hệ thống mạng",
+        "ans4" : "Việc phòng chống tấn công, đột nhập vào hệ thống máy tính và mạng",
+        "answer" : "Việc bảo vệ chống truy nhập, sử dụng, tiết lộ, sử đổi, hoặc phá hủy thông tin một cách trái phép",
+        "question" : "An toàn thông tin (Information Security) là"
+      } ],
+      "Đề 3" : [ null, {
+        "ans1" : "Polymorphic virus",
+        "ans2" : "Armored virus",
+        "ans3" : "Sâu",
+        "ans4" : "Trojan Horse",
+        "answer" : "Trojan Horse",
+        "question" : "Một chương trình nằm trong một chương trình khác được cài vào hệ thống gọi là một "
+      }, {
+        "ans1" : "virus ký sinh, file, boot sector, stealth, cư trú bộ nhớ, macro",
+        "ans2" : "stealth, cư trú bộ nhớ, macro, đa hình, file",
+        "ans3" : "virus ký sinh, cư trú bộ nhớ, boot sector, Stealth, đa hình, macro",
+        "ans4" : "stealth, cư trú bộ nhớ, macro, lưỡng tính, file",
+        "answer" : "stealth, cư trú bộ nhớ, macro, đa hình, file",
+        "question" : "Các dạng sau đây, dạng nào là của virus"
+      }, {
+        "ans1" : "Đa yếu tố ( multi-factor)",
+        "ans2" : "Sinh trắc học",
+        "ans3" : "Thẻ thông minh",
+        "ans4" : "Keberos",
+        "answer" : "Đa yếu tố ( multi-factor)",
+        "question" : "Qui trình xác thực nào sử dụng nhiều hơn một yếu tố xác thực để logon ?"
+      }, {
+        "ans1" : "Là một điểm chặn của trong quá trình điều khiển và giám sát.",
+        "ans2" : "Là một phần mềm hoặc phần ứng có khả năng ngăn chặn tấn công từ bên trong và bên ngoài vào hệ thống.",
+        "ans3" : "Fire wal là một vành đai phòng thủ cho máy tính hoặc hệ thống trước những tấn công",
+        "ans4" : "Là một giải pháp giúp hệ thống phát hiện và ngăn chặn các truy cập trái phép",
+        "answer" : "Là một phần mềm hoặc phần ứng có khả năng ngăn chặn tấn công từ bên trong và bên ngoài vào hệ thống.",
+        "question" : "Các phát biểu sau đây phát biểu là là đúng nhất"
+      }, {
+        "ans1" : "Ngựa trojan",
+        "ans2" : "Sâu",
+        "ans3" : "Stealth virus",
+        "ans4" : "Logic bomb",
+        "answer" : "Ngựa trojan",
+        "question" : "Loại mã nguồn độc hại nào có thể được cài đặt song không gây tác hại cho đến khi một hoạt động nào đó được kích hoạt ?"
+      }, {
+        "ans1" : "Mã hóa dữ liệu",
+        "ans2" : "Khóa đĩa mềm",
+        "ans3" : "Lưu trữ đều đặn trên CD-ROM",
+        "ans4" : "Enable khi login và tạo mật khẩu trên HĐH",
+        "answer" : "Mã hóa dữ liệu",
+        "question" : "Cần phải làm gì để bảo vệ dữ liệu trên một máy tính xách tay nếu nó bị lấy cắp ?"
+      }, {
+        "ans1" : "Hầu hết các thuật tóan mã hóa đối xứng đều dựa trên cấu trúc thuật toán Feistel",
+        "ans2" : "Tấn công thông điệp thì thời gian giải mã tỷ lệ với kích thước khóa",
+        "ans3" : "Hầu hết các thuật tóan mã hóa khối đều đối xứng",
+        "ans4" : "Tất cả đều đúng",
+        "answer" : "Tất cả đều đúng",
+        "question" : "Các phát biểu sau đây phát biểu nào đúng"
+      }, {
+        "ans1" : "Dò tìm (Scanning)",
+        "ans2" : "Gaining truy cập",
+        "ans3" : "Trinh sát",
+        "ans4" : "Duy trì truy cập",
+        "answer" : "Trinh sát",
+        "question" : "Giai đoạn đầu của hacking là gì?"
+      }, {
+        "ans1" : "Mỗi cột của ma trận state được nhân với một đa thức",
+        "ans2" : "Trộn hai cột kề nhau của ma trận state",
+        "ans3" : "Trộn các dòng tương ứng của ma trận state với khóa",
+        "ans4" : "Trộn các cột tương ứng của ma trận state với khóa",
+        "answer" : "Mỗi cột của ma trận state được nhân với một đa thức",
+        "question" : "Bước MixColumns (trộn cột) trong vòng lặp chuyển đổi trong hệ mã hóa AES thực hiện việc"
+      }, {
+        "ans1" : "Việc bảo vệ chống truy nhập, sử dụng, tiết lộ, sử đổi, hoặc phá hủy thông tin một cách trái phép",
+        "ans2" : "Việc đảm bảo an toàn cho hệ thống máy tính",
+        "ans3" : "Việc đảm bảo an toàn cho hệ thống mạng",
+        "ans4" : "Việc phòng chống tấn công, đột nhập vào hệ thống máy tính và mạng",
+        "answer" : "Việc bảo vệ chống truy nhập, sử dụng, tiết lộ, sử đổi, hoặc phá hủy thông tin một cách trái phép",
+        "question" : "An toàn thông tin (Information Security) là"
+      } ],
+      "Đề 4" : [ null, {
+        "ans1" : "Polymorphic virus",
+        "ans2" : "Armored virus",
+        "ans3" : "Sâu",
+        "ans4" : "Trojan Horse",
+        "answer" : "Trojan Horse",
+        "question" : "Một chương trình nằm trong một chương trình khác được cài vào hệ thống gọi là một "
+      }, {
+        "ans1" : "virus ký sinh, file, boot sector, stealth, cư trú bộ nhớ, macro",
+        "ans2" : "stealth, cư trú bộ nhớ, macro, đa hình, file",
+        "ans3" : "virus ký sinh, cư trú bộ nhớ, boot sector, Stealth, đa hình, macro",
+        "ans4" : "stealth, cư trú bộ nhớ, macro, lưỡng tính, file",
+        "answer" : "stealth, cư trú bộ nhớ, macro, đa hình, file",
+        "question" : "Các dạng sau đây, dạng nào là của virus"
+      }, {
+        "ans1" : "Đa yếu tố ( multi-factor)",
+        "ans2" : "Sinh trắc học",
+        "ans3" : "Thẻ thông minh",
+        "ans4" : "Keberos",
+        "answer" : "Đa yếu tố ( multi-factor)",
+        "question" : "Qui trình xác thực nào sử dụng nhiều hơn một yếu tố xác thực để logon ?"
+      }, {
+        "ans1" : "Là một điểm chặn của trong quá trình điều khiển và giám sát.",
+        "ans2" : "Là một phần mềm hoặc phần ứng có khả năng ngăn chặn tấn công từ bên trong và bên ngoài vào hệ thống.",
+        "ans3" : "Fire wal là một vành đai phòng thủ cho máy tính hoặc hệ thống trước những tấn công",
+        "ans4" : "Là một giải pháp giúp hệ thống phát hiện và ngăn chặn các truy cập trái phép",
+        "answer" : "Là một phần mềm hoặc phần ứng có khả năng ngăn chặn tấn công từ bên trong và bên ngoài vào hệ thống.",
+        "question" : "Các phát biểu sau đây phát biểu là là đúng nhất"
+      }, {
+        "ans1" : "Ngựa trojan",
+        "ans2" : "Sâu",
+        "ans3" : "Stealth virus",
+        "ans4" : "Logic bomb",
+        "answer" : "Ngựa trojan",
+        "question" : "Loại mã nguồn độc hại nào có thể được cài đặt song không gây tác hại cho đến khi một hoạt động nào đó được kích hoạt ?"
+      }, {
+        "ans1" : "Mã hóa dữ liệu",
+        "ans2" : "Khóa đĩa mềm",
+        "ans3" : "Lưu trữ đều đặn trên CD-ROM",
+        "ans4" : "Enable khi login và tạo mật khẩu trên HĐH",
+        "answer" : "Mã hóa dữ liệu",
+        "question" : "Cần phải làm gì để bảo vệ dữ liệu trên một máy tính xách tay nếu nó bị lấy cắp ?"
+      }, {
+        "ans1" : "Hầu hết các thuật tóan mã hóa đối xứng đều dựa trên cấu trúc thuật toán Feistel",
+        "ans2" : "Tấn công thông điệp thì thời gian giải mã tỷ lệ với kích thước khóa",
+        "ans3" : "Hầu hết các thuật tóan mã hóa khối đều đối xứng",
+        "ans4" : "Tất cả đều đúng",
+        "answer" : "Tất cả đều đúng",
+        "question" : "Các phát biểu sau đây phát biểu nào đúng"
+      }, {
+        "ans1" : "Dò tìm (Scanning)",
+        "ans2" : "Gaining truy cập",
+        "ans3" : "Trinh sát",
+        "ans4" : "Duy trì truy cập",
+        "answer" : "Trinh sát",
+        "question" : "Giai đoạn đầu của hacking là gì?"
+      }, {
+        "ans1" : "Mỗi cột của ma trận state được nhân với một đa thức",
+        "ans2" : "Trộn hai cột kề nhau của ma trận state",
+        "ans3" : "Trộn các dòng tương ứng của ma trận state với khóa",
+        "ans4" : "Trộn các cột tương ứng của ma trận state với khóa",
+        "answer" : "Mỗi cột của ma trận state được nhân với một đa thức",
+        "question" : "Bước MixColumns (trộn cột) trong vòng lặp chuyển đổi trong hệ mã hóa AES thực hiện việc"
+      }, {
+        "ans1" : "Việc bảo vệ chống truy nhập, sử dụng, tiết lộ, sử đổi, hoặc phá hủy thông tin một cách trái phép",
+        "ans2" : "Việc đảm bảo an toàn cho hệ thống máy tính",
+        "ans3" : "Việc đảm bảo an toàn cho hệ thống mạng",
+        "ans4" : "Việc phòng chống tấn công, đột nhập vào hệ thống máy tính và mạng",
+        "answer" : "Việc bảo vệ chống truy nhập, sử dụng, tiết lộ, sử đổi, hoặc phá hủy thông tin một cách trái phép",
+        "question" : "An toàn thông tin (Information Security) là"
+      } ]
+    },
+    "Ltw" : {
+      "Đề 1" : [ null, {
+        "ans1" : "SELECT FirstName='Peter', LastName='Jackson' FROM Persons",
+        "ans2" : "SELECT * FROM Persons WHERE FirstName<>'Peter' AND LastName<>'Jackson'",
+        "ans3" : "SELECT * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'",
+        "ans4" : "Delete * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'",
+        "answer" : "SELECT * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'",
+        "question" : "Trong SQL, làm thế nào để chọn tất cả các bản ghi có giá trị cột \"FirstName\" là \"Peter\" và cột \"LastName\" là \"Jackson\" từ bảng \"Persions\"?"
+      }, {
+        "ans1" : "Request.Form;",
+        "ans2" : "Request.QueryString;",
+        "ans3" : "$_GET[];",
+        "ans4" : "Request.$_GET[];",
+        "answer" : "$_GET[];",
+        "question" : "Trong PHP, làm thế nào để lấy thông tin từ 1 form được submit sử dụng phương thức GET?"
+      }, {
+        "ans1" : "Thuộc tính sự kiện",
+        "ans2" : "Thẻ",
+        "ans3" : "Thuộc tính kiểu cách",
+        "ans4" : "Cả 3 đáp án trên đều sai",
+        "answer" : "Thuộc tính sự kiện",
+        "question" : "Trong HTML, onblur và onfocus là"
+      }, {
+        "ans1" : "//This comment has more than one line//",
+        "ans2" : "/*This comment has more than one line*/",
+        "ans3" : "<!--This comment has more than one line-->",
+        "ans4" : "<--This comment has more than one line-!>",
+        "answer" : "/*This comment has more than one line*/",
+        "question" : "Cách comment nhiều dòng trong JavaScript?"
+      }, {
+        "ans1" : "Toàn bộ thẻ không chứa chữ \"disabled\"",
+        "ans2" : "Toàn bộ các thẻ bị ẩn",
+        "ans3" : "Toàn bộ thẻ có chứa chữ \"disabled\"",
+        "ans4" : "Toàn bộ thẻ disabled input",
+        "answer" : "Toàn bộ thẻ disabled input",
+        "question" : "$(\":disabled\") chọn gì trong jQuery?"
+      }, {
+        "ans1" : "nav",
+        "ans2" : "navigation",
+        "ans3" : "navigate",
+        "ans4" : "navig",
+        "answer" : "nav",
+        "question" : "Trong HTML, thẻ nào dùng để xác định đường dẫn điều hướng"
+      }, {
+        "ans1" : "<lb>",
+        "ans2" : "<break>",
+        "ans3" : "<br>",
+        "ans4" : "<hr>",
+        "answer" : "<br>",
+        "question" : "Phần tử HTML để ngắt dòng:"
+      }, {
+        "ans1" : "ORDER",
+        "ans2" : "SORT BY",
+        "ans3" : "SORT",
+        "ans4" : "ORDER BY",
+        "answer" : "ORDER BY",
+        "question" : "Từ khóa SQL để sắp xếp kết quả?"
+      }, {
+        "ans1" : "Xác định 1 menu bối cảnh, xuất hiện khi user click chuột phải vào thành phần đó",
+        "ans2" : "Cập nhật nội dung từ máy chủ",
+        "ans3" : "Trả về vị trí xuất hiện đầu tiên của đoạn nội dung trong 1 chuỗi",
+        "ans4" : "Quy định cho phép sửa nội dung của 1 thành phần hoặc không",
+        "answer" : "Quy định cho phép sửa nội dung của 1 thành phần hoặc không",
+        "question" : "Thuộc tính contenteditable trong HTML dùng để"
+      }, {
+        "ans1" : "font",
+        "ans2" : "styles",
+        "ans3" : "style",
+        "ans4" : "class",
+        "answer" : "style",
+        "question" : "Thuộc tính HTML nào dùng để định nghĩa kiểu dáng ngay bên trong thẻ?"
+      } ],
+      "Đề 2" : [ null, {
+        "ans1" : "SELECT FirstName='Peter', LastName='Jackson' FROM Persons",
+        "ans2" : "SELECT * FROM Persons WHERE FirstName<>'Peter' AND LastName<>'Jackson'",
+        "ans3" : "SELECT * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'",
+        "ans4" : "Delete * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'",
+        "answer" : "SELECT * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'",
+        "question" : "Trong SQL, làm thế nào để chọn tất cả các bản ghi có giá trị cột \"FirstName\" là \"Peter\" và cột \"LastName\" là \"Jackson\" từ bảng \"Persions\"?"
+      }, {
+        "ans1" : "Request.Form;",
+        "ans2" : "Request.QueryString;",
+        "ans3" : "$_GET[];",
+        "ans4" : "Request.$_GET[];",
+        "answer" : "$_GET[];",
+        "question" : "Trong PHP, làm thế nào để lấy thông tin từ 1 form được submit sử dụng phương thức GET?"
+      }, {
+        "ans1" : "Thuộc tính sự kiện",
+        "ans2" : "Thẻ",
+        "ans3" : "Thuộc tính kiểu cách",
+        "ans4" : "Cả 3 đáp án trên đều sai",
+        "answer" : "Thuộc tính sự kiện",
+        "question" : "Trong HTML, onblur và onfocus là"
+      }, {
+        "ans1" : "//This comment has more than one line//",
+        "ans2" : "/*This comment has more than one line*/",
+        "ans3" : "<!--This comment has more than one line-->",
+        "ans4" : "<--This comment has more than one line-!>",
+        "answer" : "/*This comment has more than one line*/",
+        "question" : "Cách comment nhiều dòng trong JavaScript?"
+      }, {
+        "ans1" : "Toàn bộ thẻ không chứa chữ \"disabled\"",
+        "ans2" : "Toàn bộ các thẻ bị ẩn",
+        "ans3" : "Toàn bộ thẻ có chứa chữ \"disabled\"",
+        "ans4" : "Toàn bộ thẻ disabled input",
+        "answer" : "Toàn bộ thẻ disabled input",
+        "question" : "$(\":disabled\") chọn gì trong jQuery?"
+      }, {
+        "ans1" : "nav",
+        "ans2" : "navigation",
+        "ans3" : "navigate",
+        "ans4" : "navig",
+        "answer" : "nav",
+        "question" : "Trong HTML, thẻ nào dùng để xác định đường dẫn điều hướng"
+      }, {
+        "ans1" : "<lb>",
+        "ans2" : "<break>",
+        "ans3" : "<br>",
+        "ans4" : "<hr>",
+        "answer" : "<br>",
+        "question" : "Phần tử HTML để ngắt dòng:"
+      }, {
+        "ans1" : "ORDER",
+        "ans2" : "SORT BY",
+        "ans3" : "SORT",
+        "ans4" : "ORDER BY",
+        "answer" : "ORDER BY",
+        "question" : "Từ khóa SQL để sắp xếp kết quả?"
+      }, {
+        "ans1" : "Xác định 1 menu bối cảnh, xuất hiện khi user click chuột phải vào thành phần đó",
+        "ans2" : "Cập nhật nội dung từ máy chủ",
+        "ans3" : "Trả về vị trí xuất hiện đầu tiên của đoạn nội dung trong 1 chuỗi",
+        "ans4" : "Quy định cho phép sửa nội dung của 1 thành phần hoặc không",
+        "answer" : "Quy định cho phép sửa nội dung của 1 thành phần hoặc không",
+        "question" : "Thuộc tính contenteditable trong HTML dùng để"
+      }, {
+        "ans1" : "font",
+        "ans2" : "styles",
+        "ans3" : "style",
+        "ans4" : "class",
+        "answer" : "style",
+        "question" : "Thuộc tính HTML nào dùng để định nghĩa kiểu dáng ngay bên trong thẻ?"
+      } ],
+      "Đề 3" : [ null, {
+        "ans1" : "SELECT FirstName='Peter', LastName='Jackson' FROM Persons",
+        "ans2" : "SELECT * FROM Persons WHERE FirstName<>'Peter' AND LastName<>'Jackson'",
+        "ans3" : "SELECT * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'",
+        "ans4" : "Delete * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'",
+        "answer" : "SELECT * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'",
+        "question" : "Trong SQL, làm thế nào để chọn tất cả các bản ghi có giá trị cột \"FirstName\" là \"Peter\" và cột \"LastName\" là \"Jackson\" từ bảng \"Persions\"?"
+      }, {
+        "ans1" : "Request.Form;",
+        "ans2" : "Request.QueryString;",
+        "ans3" : "$_GET[];",
+        "ans4" : "Request.$_GET[];",
+        "answer" : "$_GET[];",
+        "question" : "Trong PHP, làm thế nào để lấy thông tin từ 1 form được submit sử dụng phương thức GET?"
+      }, {
+        "ans1" : "Thuộc tính sự kiện",
+        "ans2" : "Thẻ",
+        "ans3" : "Thuộc tính kiểu cách",
+        "ans4" : "Cả 3 đáp án trên đều sai",
+        "answer" : "Thuộc tính sự kiện",
+        "question" : "Trong HTML, onblur và onfocus là"
+      }, {
+        "ans1" : "//This comment has more than one line//",
+        "ans2" : "/*This comment has more than one line*/",
+        "ans3" : "<!--This comment has more than one line-->",
+        "ans4" : "<--This comment has more than one line-!>",
+        "answer" : "/*This comment has more than one line*/",
+        "question" : "Cách comment nhiều dòng trong JavaScript?"
+      }, {
+        "ans1" : "Toàn bộ thẻ không chứa chữ \"disabled\"",
+        "ans2" : "Toàn bộ các thẻ bị ẩn",
+        "ans3" : "Toàn bộ thẻ có chứa chữ \"disabled\"",
+        "ans4" : "Toàn bộ thẻ disabled input",
+        "answer" : "Toàn bộ thẻ disabled input",
+        "question" : "$(\":disabled\") chọn gì trong jQuery?"
+      }, {
+        "ans1" : "nav",
+        "ans2" : "navigation",
+        "ans3" : "navigate",
+        "ans4" : "navig",
+        "answer" : "nav",
+        "question" : "Trong HTML, thẻ nào dùng để xác định đường dẫn điều hướng"
+      }, {
+        "ans1" : "<lb>",
+        "ans2" : "<break>",
+        "ans3" : "<br>",
+        "ans4" : "<hr>",
+        "answer" : "<br>",
+        "question" : "Phần tử HTML để ngắt dòng:"
+      }, {
+        "ans1" : "ORDER",
+        "ans2" : "SORT BY",
+        "ans3" : "SORT",
+        "ans4" : "ORDER BY",
+        "answer" : "ORDER BY",
+        "question" : "Từ khóa SQL để sắp xếp kết quả?"
+      }, {
+        "ans1" : "Xác định 1 menu bối cảnh, xuất hiện khi user click chuột phải vào thành phần đó",
+        "ans2" : "Cập nhật nội dung từ máy chủ",
+        "ans3" : "Trả về vị trí xuất hiện đầu tiên của đoạn nội dung trong 1 chuỗi",
+        "ans4" : "Quy định cho phép sửa nội dung của 1 thành phần hoặc không",
+        "answer" : "Quy định cho phép sửa nội dung của 1 thành phần hoặc không",
+        "question" : "Thuộc tính contenteditable trong HTML dùng để"
+      }, {
+        "ans1" : "font",
+        "ans2" : "styles",
+        "ans3" : "style",
+        "ans4" : "class",
+        "answer" : "style",
+        "question" : "Thuộc tính HTML nào dùng để định nghĩa kiểu dáng ngay bên trong thẻ?"
+      } ],
+      "Đề 4" : [ null, {
+        "ans1" : "SELECT FirstName='Peter', LastName='Jackson' FROM Persons",
+        "ans2" : "SELECT * FROM Persons WHERE FirstName<>'Peter' AND LastName<>'Jackson'",
+        "ans3" : "SELECT * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'",
+        "ans4" : "Delete * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'",
+        "answer" : "SELECT * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'",
+        "question" : "Trong SQL, làm thế nào để chọn tất cả các bản ghi có giá trị cột \"FirstName\" là \"Peter\" và cột \"LastName\" là \"Jackson\" từ bảng \"Persions\"?"
+      }, {
+        "ans1" : "Request.Form;",
+        "ans2" : "Request.QueryString;",
+        "ans3" : "$_GET[];",
+        "ans4" : "Request.$_GET[];",
+        "answer" : "$_GET[];",
+        "question" : "Trong PHP, làm thế nào để lấy thông tin từ 1 form được submit sử dụng phương thức GET?"
+      }, {
+        "ans1" : "Thuộc tính sự kiện",
+        "ans2" : "Thẻ",
+        "ans3" : "Thuộc tính kiểu cách",
+        "ans4" : "Cả 3 đáp án trên đều sai",
+        "answer" : "Thuộc tính sự kiện",
+        "question" : "Trong HTML, onblur và onfocus là"
+      }, {
+        "ans1" : "//This comment has more than one line//",
+        "ans2" : "/*This comment has more than one line*/",
+        "ans3" : "<!--This comment has more than one line-->",
+        "ans4" : "<--This comment has more than one line-!>",
+        "answer" : "/*This comment has more than one line*/",
+        "question" : "Cách comment nhiều dòng trong JavaScript?"
+      }, {
+        "ans1" : "Toàn bộ thẻ không chứa chữ \"disabled\"",
+        "ans2" : "Toàn bộ các thẻ bị ẩn",
+        "ans3" : "Toàn bộ thẻ có chứa chữ \"disabled\"",
+        "ans4" : "Toàn bộ thẻ disabled input",
+        "answer" : "Toàn bộ thẻ disabled input",
+        "question" : "$(\":disabled\") chọn gì trong jQuery?"
+      }, {
+        "ans1" : "nav",
+        "ans2" : "navigation",
+        "ans3" : "navigate",
+        "ans4" : "navig",
+        "answer" : "nav",
+        "question" : "Trong HTML, thẻ nào dùng để xác định đường dẫn điều hướng"
+      }, {
+        "ans1" : "<lb>",
+        "ans2" : "<break>",
+        "ans3" : "<br>",
+        "ans4" : "<hr>",
+        "answer" : "<br>",
+        "question" : "Phần tử HTML để ngắt dòng:"
+      }, {
+        "ans1" : "ORDER",
+        "ans2" : "SORT BY",
+        "ans3" : "SORT",
+        "ans4" : "ORDER BY",
+        "answer" : "ORDER BY",
+        "question" : "Từ khóa SQL để sắp xếp kết quả?"
+      }, {
+        "ans1" : "Xác định 1 menu bối cảnh, xuất hiện khi user click chuột phải vào thành phần đó",
+        "ans2" : "Cập nhật nội dung từ máy chủ",
+        "ans3" : "Trả về vị trí xuất hiện đầu tiên của đoạn nội dung trong 1 chuỗi",
+        "ans4" : "Quy định cho phép sửa nội dung của 1 thành phần hoặc không",
+        "answer" : "Quy định cho phép sửa nội dung của 1 thành phần hoặc không",
+        "question" : "Thuộc tính contenteditable trong HTML dùng để"
+      }, {
+        "ans1" : "font",
+        "ans2" : "styles",
+        "ans3" : "style",
+        "ans4" : "class",
+        "answer" : "style",
+        "question" : "Thuộc tính HTML nào dùng để định nghĩa kiểu dáng ngay bên trong thẻ?"
+      } ]
+    },
+    "Mmt" : {
+      "Đề 1" : [ null, {
+        "ans1" : "Inter-routing",
+        "ans2" : "Intra-routing",
+        "ans3" : "Cả hai đều sai",
+        "ans4" : "Cả hai đều đúng",
+        "answer" : "Cả hai đều đúng",
+        "question" : "Thuật toán chạy trên gateway router là"
+      }, {
+        "ans1" : "Theo lớp",
+        "ans2" : "Có cấu trúc đa tầng",
+        "ans3" : "Tập hợp",
+        "ans4" : "Nhiều tầng",
+        "answer" : "Có cấu trúc đa tầng",
+        "question" : "Các mạng máy tính được thiết kế và cài đặt theo quan điểm"
+      }, {
+        "ans1" : "32 bit",
+        "ans2" : "256 bit",
+        "ans3" : "64 bit",
+        "ans4" : "128 bit",
+        "answer" : "128 bit",
+        "question" : "IPv6 có không gian địa chỉ là"
+      }, {
+        "ans1" : "IP",
+        "ans2" : "UDP",
+        "ans3" : "ARP",
+        "ans4" : "TCP",
+        "answer" : "TCP",
+        "question" : "Giao thức nào cung cấp tính năng vận chuyển gói tin có độ tin cậy cao"
+      }, {
+        "ans1" : "512 byte",
+        "ans2" : "53 byte",
+        "ans3" : "128 byte",
+        "ans4" : "1500 byte",
+        "answer" : "53 byte",
+        "question" : "Độ dài của khung dữ liệu của ATM là"
+      }, {
+        "ans1" : "Đảm bảo các yêu cầu truyền/nhận các chuỗi bit qua các phương tiện vật lý",
+        "ans2" : "Kiểm soát lỗi và luồng dữ liệu",
+        "ans3" : "Tạo khung thông tin",
+        "ans4" : "Phân mảnh và đóng gói dữ liệu",
+        "answer" : "Đảm bảo các yêu cầu truyền/nhận các chuỗi bit qua các phương tiện vật lý",
+        "question" : "Chức năng của tầng vật lý là"
+      }, {
+        "ans1" : "Telnet",
+        "ans2" : "Email",
+        "ans3" : "Web",
+        "ans4" : "Skype",
+        "anser" : "Skype",
+        "question" : "Ứng dụng nào sử dụng mô hình P2P"
+      }, {
+        "ans1" : "FDM và TDM",
+        "ans2" : "ACK và NAK",
+        "ans3" : "RFC và IETF",
+        "ans4" : "TCP và UDP",
+        "answer" : "RFC và IETF",
+        "question" : "Các chuẩn Internet là"
+      }, {
+        "ans1" : "Giao thức mạng (Protocol)",
+        "ans2" : "Hình trạng mạng (Topology)",
+        "ans3" : "Các dịch vụ mạng",
+        "ans4" : "Phượng tiện truyền",
+        "answer" : "Hình trạng mạng (Topology)",
+        "question" : "Khẳng định nào sau đây là đúng nói về cấu trúc vật lý của mạng"
+      }, {
+        "ans1" : "2^10/(2^22 - 2)",
+        "ans2" : "2^11/(2^21 - 2)",
+        "ans3" : "2^14/(2^16 - 2)",
+        "ans4" : "2^13/(2^19 - 2)",
+        "answer" : "2^14/(2^16 - 2)",
+        "question" : "IPv4, lớp B có số NetIDs/HostIDs sử dụng tương..."
+      } ],
+      "Đề 2" : [ null, {
+        "ans1" : "Inter-routing",
+        "ans2" : "Intra-routing",
+        "ans3" : "Cả hai đều sai",
+        "ans4" : "Cả hai đều đúng",
+        "answer" : "Cả hai đều đúng",
+        "question" : "Thuật toán chạy trên gateway router là"
+      }, {
+        "ans1" : "Theo lớp",
+        "ans2" : "Có cấu trúc đa tầng",
+        "ans3" : "Tập hợp",
+        "ans4" : "Nhiều tầng",
+        "answer" : "Có cấu trúc đa tầng",
+        "question" : "Các mạng máy tính được thiết kế và cài đặt theo quan điểm"
+      }, {
+        "ans1" : "32 bit",
+        "ans2" : "256 bit",
+        "ans3" : "64 bit",
+        "ans4" : "128 bit",
+        "answer" : "128 bit",
+        "question" : "IPv6 có không gian địa chỉ là"
+      }, {
+        "ans1" : "IP",
+        "ans2" : "UDP",
+        "ans3" : "ARP",
+        "ans4" : "TCP",
+        "answer" : "TCP",
+        "question" : "Giao thức nào cung cấp tính năng vận chuyển gói tin có độ tin cậy cao"
+      }, {
+        "ans1" : "512 byte",
+        "ans2" : "53 byte",
+        "ans3" : "128 byte",
+        "ans4" : "1500 byte",
+        "answer" : "53 byte",
+        "question" : "Độ dài của khung dữ liệu của ATM là"
+      }, {
+        "ans1" : "Đảm bảo các yêu cầu truyền/nhận các chuỗi bit qua các phương tiện vật lý",
+        "ans2" : "Kiểm soát lỗi và luồng dữ liệu",
+        "ans3" : "Tạo khung thông tin",
+        "ans4" : "Phân mảnh và đóng gói dữ liệu",
+        "answer" : "Đảm bảo các yêu cầu truyền/nhận các chuỗi bit qua các phương tiện vật lý",
+        "question" : "Chức năng của tầng vật lý là"
+      }, {
+        "ans1" : "Telnet",
+        "ans2" : "Email",
+        "ans3" : "Web",
+        "ans4" : "Skype",
+        "anser" : "Skype",
+        "question" : "Ứng dụng nào sử dụng mô hình P2P"
+      }, {
+        "ans1" : "FDM và TDM",
+        "ans2" : "ACK và NAK",
+        "ans3" : "RFC và IETF",
+        "ans4" : "TCP và UDP",
+        "answer" : "RFC và IETF",
+        "question" : "Các chuẩn Internet là"
+      }, {
+        "ans1" : "Giao thức mạng (Protocol)",
+        "ans2" : "Hình trạng mạng (Topology)",
+        "ans3" : "Các dịch vụ mạng",
+        "ans4" : "Phượng tiện truyền",
+        "answer" : "Hình trạng mạng (Topology)",
+        "question" : "Khẳng định nào sau đây là đúng nói về cấu trúc vật lý của mạng"
+      }, {
+        "ans1" : "2^10/(2^22 - 2)",
+        "ans2" : "2^11/(2^21 - 2)",
+        "ans3" : "2^14/(2^16 - 2)",
+        "ans4" : "2^13/(2^19 - 2)",
+        "answer" : "2^14/(2^16 - 2)",
+        "question" : "IPv4, lớp B có số NetIDs/HostIDs sử dụng tương..."
+      } ],
+      "Đề 3" : [ null, {
+        "ans1" : "Inter-routing",
+        "ans2" : "Intra-routing",
+        "ans3" : "Cả hai đều sai",
+        "ans4" : "Cả hai đều đúng",
+        "answer" : "Cả hai đều đúng",
+        "question" : "Thuật toán chạy trên gateway router là"
+      }, {
+        "ans1" : "Theo lớp",
+        "ans2" : "Có cấu trúc đa tầng",
+        "ans3" : "Tập hợp",
+        "ans4" : "Nhiều tầng",
+        "answer" : "Có cấu trúc đa tầng",
+        "question" : "Các mạng máy tính được thiết kế và cài đặt theo quan điểm"
+      }, {
+        "ans1" : "32 bit",
+        "ans2" : "256 bit",
+        "ans3" : "64 bit",
+        "ans4" : "128 bit",
+        "answer" : "128 bit",
+        "question" : "IPv6 có không gian địa chỉ là"
+      }, {
+        "ans1" : "IP",
+        "ans2" : "UDP",
+        "ans3" : "ARP",
+        "ans4" : "TCP",
+        "answer" : "TCP",
+        "question" : "Giao thức nào cung cấp tính năng vận chuyển gói tin có độ tin cậy cao"
+      }, {
+        "ans1" : "512 byte",
+        "ans2" : "53 byte",
+        "ans3" : "128 byte",
+        "ans4" : "1500 byte",
+        "answer" : "53 byte",
+        "question" : "Độ dài của khung dữ liệu của ATM là"
+      }, {
+        "ans1" : "Đảm bảo các yêu cầu truyền/nhận các chuỗi bit qua các phương tiện vật lý",
+        "ans2" : "Kiểm soát lỗi và luồng dữ liệu",
+        "ans3" : "Tạo khung thông tin",
+        "ans4" : "Phân mảnh và đóng gói dữ liệu",
+        "answer" : "Đảm bảo các yêu cầu truyền/nhận các chuỗi bit qua các phương tiện vật lý",
+        "question" : "Chức năng của tầng vật lý là"
+      }, {
+        "ans1" : "Telnet",
+        "ans2" : "Email",
+        "ans3" : "Web",
+        "ans4" : "Skype",
+        "anser" : "Skype",
+        "question" : "Ứng dụng nào sử dụng mô hình P2P"
+      }, {
+        "ans1" : "FDM và TDM",
+        "ans2" : "ACK và NAK",
+        "ans3" : "RFC và IETF",
+        "ans4" : "TCP và UDP",
+        "answer" : "RFC và IETF",
+        "question" : "Các chuẩn Internet là"
+      }, {
+        "ans1" : "Giao thức mạng (Protocol)",
+        "ans2" : "Hình trạng mạng (Topology)",
+        "ans3" : "Các dịch vụ mạng",
+        "ans4" : "Phượng tiện truyền",
+        "answer" : "Hình trạng mạng (Topology)",
+        "question" : "Khẳng định nào sau đây là đúng nói về cấu trúc vật lý của mạng"
+      }, {
+        "ans1" : "2^10/(2^22 - 2)",
+        "ans2" : "2^11/(2^21 - 2)",
+        "ans3" : "2^14/(2^16 - 2)",
+        "ans4" : "2^13/(2^19 - 2)",
+        "answer" : "2^14/(2^16 - 2)",
+        "question" : "IPv4, lớp B có số NetIDs/HostIDs sử dụng tương..."
+      } ],
+      "Đề 4" : [ null, {
+        "ans1" : "Inter-routing",
+        "ans2" : "Intra-routing",
+        "ans3" : "Cả hai đều sai",
+        "ans4" : "Cả hai đều đúng",
+        "answer" : "Cả hai đều đúng",
+        "question" : "Thuật toán chạy trên gateway router là"
+      }, {
+        "ans1" : "Theo lớp",
+        "ans2" : "Có cấu trúc đa tầng",
+        "ans3" : "Tập hợp",
+        "ans4" : "Nhiều tầng",
+        "answer" : "Có cấu trúc đa tầng",
+        "question" : "Các mạng máy tính được thiết kế và cài đặt theo quan điểm"
+      }, {
+        "ans1" : "32 bit",
+        "ans2" : "256 bit",
+        "ans3" : "64 bit",
+        "ans4" : "128 bit",
+        "answer" : "128 bit",
+        "question" : "IPv6 có không gian địa chỉ là"
+      }, {
+        "ans1" : "IP",
+        "ans2" : "UDP",
+        "ans3" : "ARP",
+        "ans4" : "TCP",
+        "answer" : "TCP",
+        "question" : "Giao thức nào cung cấp tính năng vận chuyển gói tin có độ tin cậy cao"
+      }, {
+        "ans1" : "512 byte",
+        "ans2" : "53 byte",
+        "ans3" : "128 byte",
+        "ans4" : "1500 byte",
+        "answer" : "53 byte",
+        "question" : "Độ dài của khung dữ liệu của ATM là"
+      }, {
+        "ans1" : "Đảm bảo các yêu cầu truyền/nhận các chuỗi bit qua các phương tiện vật lý",
+        "ans2" : "Kiểm soát lỗi và luồng dữ liệu",
+        "ans3" : "Tạo khung thông tin",
+        "ans4" : "Phân mảnh và đóng gói dữ liệu",
+        "answer" : "Đảm bảo các yêu cầu truyền/nhận các chuỗi bit qua các phương tiện vật lý",
+        "question" : "Chức năng của tầng vật lý là"
+      }, {
+        "ans1" : "Telnet",
+        "ans2" : "Email",
+        "ans3" : "Web",
+        "ans4" : "Skype",
+        "anser" : "Skype",
+        "question" : "Ứng dụng nào sử dụng mô hình P2P"
+      }, {
+        "ans1" : "FDM và TDM",
+        "ans2" : "ACK và NAK",
+        "ans3" : "RFC và IETF",
+        "ans4" : "TCP và UDP",
+        "answer" : "RFC và IETF",
+        "question" : "Các chuẩn Internet là"
+      }, {
+        "ans1" : "Giao thức mạng (Protocol)",
+        "ans2" : "Hình trạng mạng (Topology)",
+        "ans3" : "Các dịch vụ mạng",
+        "ans4" : "Phượng tiện truyền",
+        "answer" : "Hình trạng mạng (Topology)",
+        "question" : "Khẳng định nào sau đây là đúng nói về cấu trúc vật lý của mạng"
+      }, {
+        "ans1" : "2^10/(2^22 - 2)",
+        "ans2" : "2^11/(2^21 - 2)",
+        "ans3" : "2^14/(2^16 - 2)",
+        "ans4" : "2^13/(2^19 - 2)",
+        "answer" : "2^14/(2^16 - 2)",
+        "question" : "IPv4, lớp B có số NetIDs/HostIDs sử dụng tương..."
+      } ]
+    },
+    "Qldapm" : {
+      "Đề 1" : [ null, {
+        "ans1" : "Các hợp đồng nên bao gồm các thủ tục phù hợp với các thay đổi",
+        "ans2" : "Các thay đổi hiếm khi cung cấp lợi ích thực cho dự án",
+        "ans3" : "Các thông số càng chi tiết sẽloại trừ các nguyên nhân thay đổi",
+        "ans4" : "Một hợp đồng giá cố định (fixed) sẽlàm giảm sựcần thiết phải kiểm soát thay đổi",
+        "answer" : "Các hợp đồng nên bao gồm các thủ tục phù hợp với các thay đổi",
+        "question" : "Tuyên bố nào dưới đây về kiểm soát thay đổi là đúng?"
+      }, {
+        "ans1" : "Người quản lý dự án PM",
+        "ans2" : "Người quản lý bộ phận chức năng functional manager",
+        "ans3" : "Đội dự án đều có quyền như nhau",
+        "ans4" : "Đội dự án",
+        "answer" : "Người quản lý dự án PM",
+        "question" : "Ai có nhiều thẩm quyền nhất trong một tổ chức hướng dự án (projectized organization)"
+      }, {
+        "ans1" : "Tạm thời",
+        "ans2" : "Có thời gian bắt đầu và kết thúc xác định",
+        "ans3" : "Có các hoạt động liên quan tới nhau",
+        "ans4" : "Lặp lại công việc dự án mỗi tháng. (repeat itself every month)",
+        "answer" : "Lặp lại công việc dự án mỗi tháng. (repeat itself every month)",
+        "question" : "Tính chất nào dưới đây không phải là tính chất của một dự án"
+      }, {
+        "ans1" : "Much time remains in the project",
+        "ans2" : "Far the estimate is from the highest estimate",
+        "ans3" : "Far the measurement is from the mean",
+        "ans4" : "Correct the sample is",
+        "answer" : "Far the measurement is from the mean",
+        "question" : "Độ lệch tiêu chuẩn là một thước đo có tính chất:"
+      }, {
+        "ans1" : "Sắp xếp các hành động",
+        "ans2" : "Hoàn thành quản lý rủi ro",
+        "ans3" : "Xác minh rằng phạm vi chuẩn đã có (verify that they have the correct scope)",
+        "ans4" : "Tạo ra lịch trình sơ bộ và lấy phê chuẩn từ đội dự án",
+        "answer" : "Tạo ra lịch trình sơ bộ và lấy phê chuẩn từ đội dự án",
+        "question" : "WBS, ước tính cho từng gói công việc, và sơ đồ mạng đều đã hoàn thành. Người PM nên làm gì tiếp theo?"
+      }, {
+        "ans1" : "Sơ đồ xương cá",
+        "ans2" : "Phân tích quy trình",
+        "ans3" : "Sơ đồ Pareto",
+        "ans4" : "Giám định",
+        "answer" : "Phân tích quy trình",
+        "question" : "Điều nào dưới đây không phải là đảm bảo chất lượng?"
+      }, {
+        "ans1" : "Xác nhận việc thực hiện của các yêu cầu thay đổi đã đc phê chuẩn",
+        "ans2" : "Xác định sự không hiệu quả và các chính sách không hiệu quả",
+        "ans3" : "Sửa chữa các khiếm khuyết đc xác định",
+        "ans4" : "Xác định các hoạt động dự án có tuân theo chính sách của tổ chức hay không",
+        "answer" : "Sửa chữa các khiếm khuyết đc xác định",
+        "question" : "Điều nào dưới đây không phải là thành phần của kiểm tra chất lượng?"
+      }, {
+        "ans1" : "Rút lui (withdrawing)",
+        "ans2" : "Kiểm soát",
+        "ans3" : "Tổ chức(organizing)",
+        "ans4" : "Trực tiếp",
+        "answer" : "Rút lui (withdrawing)",
+        "question" : "Kỹ thuật giải quyết xung đột có thể đc sử dụng trong dự án bao gồm: đối đầu, làm bình lặng (smoothing), vũ lực và"
+      }, {
+        "ans1" : "Thương lượng lại về phần còn lại của hợp đồng",
+        "ans2" : "Gặp các bên có liên quan",
+        "ans3" : "Theo sau hệ thống kiểm soát thay đổi",
+        "ans4" : "Gặp đội dự án",
+        "answer" : "Theo sau hệ thống kiểm soát thay đổi",
+        "question" : "Một PM đang quản lý một hợp đồng có giá sẵn (fixed price contract). Cô ấy nghĩ rằng một thay đổi lớn từ yêu cầu của khách hàng sẽ ảnh hưởng tới lịch trình dự án. Cô ấy nên làm gì đầu tiên?"
+      }, {
+        "ans1" : "Hoàn thành phê chuẩn phạm vi dự án",
+        "ans2" : "Bắt đầu hoàn thành gói công việc",
+        "ans3" : "Bắt đầu tạo ra các kế hoạch quản lý",
+        "ans4" : "Bắt đầu kết hợp điều khiển thay đổi",
+        "answer" : "Bắt đầu tạo ra các kế hoạch quản lý",
+        "question" : "Nhà tài trợ dự án vừa cung cấp bản tuyên bố phạm vi dự án sơ bộ. việc phải làm tiếp theo là"
+      } ],
+      "Đề 2" : [ null, {
+        "ans1" : "Các hợp đồng nên bao gồm các thủ tục phù hợp với các thay đổi",
+        "ans2" : "Các thay đổi hiếm khi cung cấp lợi ích thực cho dự án",
+        "ans3" : "Các thông số càng chi tiết sẽloại trừ các nguyên nhân thay đổi",
+        "ans4" : "Một hợp đồng giá cố định (fixed) sẽlàm giảm sựcần thiết phải kiểm soát thay đổi",
+        "answer" : "Các hợp đồng nên bao gồm các thủ tục phù hợp với các thay đổi",
+        "question" : "Tuyên bố nào dưới đây về kiểm soát thay đổi là đúng?"
+      }, {
+        "ans1" : "Người quản lý dự án PM",
+        "ans2" : "Người quản lý bộ phận chức năng functional manager",
+        "ans3" : "Đội dự án đều có quyền như nhau",
+        "ans4" : "Đội dự án",
+        "answer" : "Người quản lý dự án PM",
+        "question" : "Ai có nhiều thẩm quyền nhất trong một tổ chức hướng dự án (projectized organization)"
+      }, {
+        "ans1" : "Tạm thời",
+        "ans2" : "Có thời gian bắt đầu và kết thúc xác định",
+        "ans3" : "Có các hoạt động liên quan tới nhau",
+        "ans4" : "Lặp lại công việc dự án mỗi tháng. (repeat itself every month)",
+        "answer" : "Lặp lại công việc dự án mỗi tháng. (repeat itself every month)",
+        "question" : "Tính chất nào dưới đây không phải là tính chất của một dự án"
+      }, {
+        "ans1" : "Much time remains in the project",
+        "ans2" : "Far the estimate is from the highest estimate",
+        "ans3" : "Far the measurement is from the mean",
+        "ans4" : "Correct the sample is",
+        "answer" : "Far the measurement is from the mean",
+        "question" : "Độ lệch tiêu chuẩn là một thước đo có tính chất:"
+      }, {
+        "ans1" : "Sắp xếp các hành động",
+        "ans2" : "Hoàn thành quản lý rủi ro",
+        "ans3" : "Xác minh rằng phạm vi chuẩn đã có (verify that they have the correct scope)",
+        "ans4" : "Tạo ra lịch trình sơ bộ và lấy phê chuẩn từ đội dự án",
+        "answer" : "Tạo ra lịch trình sơ bộ và lấy phê chuẩn từ đội dự án",
+        "question" : "WBS, ước tính cho từng gói công việc, và sơ đồ mạng đều đã hoàn thành. Người PM nên làm gì tiếp theo?"
+      }, {
+        "ans1" : "Sơ đồ xương cá",
+        "ans2" : "Phân tích quy trình",
+        "ans3" : "Sơ đồ Pareto",
+        "ans4" : "Giám định",
+        "answer" : "Phân tích quy trình",
+        "question" : "Điều nào dưới đây không phải là đảm bảo chất lượng?"
+      }, {
+        "ans1" : "Xác nhận việc thực hiện của các yêu cầu thay đổi đã đc phê chuẩn",
+        "ans2" : "Xác định sự không hiệu quả và các chính sách không hiệu quả",
+        "ans3" : "Sửa chữa các khiếm khuyết đc xác định",
+        "ans4" : "Xác định các hoạt động dự án có tuân theo chính sách của tổ chức hay không",
+        "answer" : "Sửa chữa các khiếm khuyết đc xác định",
+        "question" : "Điều nào dưới đây không phải là thành phần của kiểm tra chất lượng?"
+      }, {
+        "ans1" : "Rút lui (withdrawing)",
+        "ans2" : "Kiểm soát",
+        "ans3" : "Tổ chức(organizing)",
+        "ans4" : "Trực tiếp",
+        "answer" : "Rút lui (withdrawing)",
+        "question" : "TKỹ thuật giải quyết xung đột có thể đc sử dụng trong dự án bao gồm: đối đầu, làm bình lặng (smoothing), vũ lực và"
+      }, {
+        "ans1" : "Thương lượng lại về phần còn lại của hợp đồng",
+        "ans2" : "Gặp các bên có liên quan",
+        "ans3" : "Theo sau hệ thống kiểm soát thay đổi",
+        "ans4" : "Gặp đội dự án",
+        "answer" : "Theo sau hệ thống kiểm soát thay đổi",
+        "question" : "Một PM đang quản lý một hợp đồng có giá sẵn (fixed price contract). Cô ấy nghĩ rằng một thay đổi lớn từ yêu cầu của khách hàng sẽ ảnh hưởng tới lịch trình dự án. Cô ấy nên làm gì đầu tiên?"
+      }, {
+        "ans1" : "Hoàn thành phê chuẩn phạm vi dự án",
+        "ans2" : "Bắt đầu hoàn thành gói công việc",
+        "ans3" : "Bắt đầu tạo ra các kế hoạch quản lý",
+        "ans4" : "Bắt đầu kết hợp điều khiển thay đổi",
+        "answer" : "Bắt đầu tạo ra các kế hoạch quản lý",
+        "question" : "Nhà tài trợ dự án vừa cung cấp bản tuyên bố phạm vi dự án sơ bộ. việc phải làm tiếp theo là"
+      } ],
+      "Đề 3" : [ null, {
+        "ans1" : "Các hợp đồng nên bao gồm các thủ tục phù hợp với các thay đổi",
+        "ans2" : "Các thay đổi hiếm khi cung cấp lợi ích thực cho dự án",
+        "ans3" : "Các thông số càng chi tiết sẽloại trừ các nguyên nhân thay đổi",
+        "ans4" : "Một hợp đồng giá cố định (fixed) sẽlàm giảm sựcần thiết phải kiểm soát thay đổi",
+        "answer" : "Các hợp đồng nên bao gồm các thủ tục phù hợp với các thay đổi",
+        "question" : "Tuyên bố nào dưới đây về kiểm soát thay đổi là đúng?"
+      }, {
+        "ans1" : "Người quản lý dự án PM",
+        "ans2" : "Người quản lý bộ phận chức năng functional manager",
+        "ans3" : "Đội dự án đều có quyền như nhau",
+        "ans4" : "Đội dự án",
+        "answer" : "Người quản lý dự án PM",
+        "question" : "Ai có nhiều thẩm quyền nhất trong một tổ chức hướng dự án (projectized organization)"
+      }, {
+        "ans1" : "Tạm thời",
+        "ans2" : "Có thời gian bắt đầu và kết thúc xác định",
+        "ans3" : "Có các hoạt động liên quan tới nhau",
+        "ans4" : "Lặp lại công việc dự án mỗi tháng. (repeat itself every month)",
+        "answer" : "Lặp lại công việc dự án mỗi tháng. (repeat itself every month)",
+        "question" : "Tính chất nào dưới đây không phải là tính chất của một dự án"
+      }, {
+        "ans1" : "Much time remains in the project",
+        "ans2" : "Far the estimate is from the highest estimate",
+        "ans3" : "Far the measurement is from the mean",
+        "ans4" : "Correct the sample is",
+        "answer" : "Far the measurement is from the mean",
+        "question" : "Độ lệch tiêu chuẩn là một thước đo có tính chất:"
+      }, {
+        "ans1" : "Sắp xếp các hành động",
+        "ans2" : "Hoàn thành quản lý rủi ro",
+        "ans3" : "Xác minh rằng phạm vi chuẩn đã có (verify that they have the correct scope)",
+        "ans4" : "Tạo ra lịch trình sơ bộ và lấy phê chuẩn từ đội dự án",
+        "answer" : "Tạo ra lịch trình sơ bộ và lấy phê chuẩn từ đội dự án",
+        "question" : "WBS, ước tính cho từng gói công việc, và sơ đồ mạng đều đã hoàn thành. Người PM nên làm gì tiếp theo?"
+      }, {
+        "ans1" : "Sơ đồ xương cá",
+        "ans2" : "Phân tích quy trình",
+        "ans3" : "Sơ đồ Pareto",
+        "ans4" : "Giám định",
+        "answer" : "Phân tích quy trình",
+        "question" : "Điều nào dưới đây không phải là đảm bảo chất lượng?"
+      }, {
+        "ans1" : "Xác nhận việc thực hiện của các yêu cầu thay đổi đã đc phê chuẩn",
+        "ans2" : "Xác định sự không hiệu quả và các chính sách không hiệu quả",
+        "ans3" : "Sửa chữa các khiếm khuyết đc xác định",
+        "ans4" : "Xác định các hoạt động dự án có tuân theo chính sách của tổ chức hay không",
+        "answer" : "Sửa chữa các khiếm khuyết đc xác định",
+        "question" : "Điều nào dưới đây không phải là thành phần của kiểm tra chất lượng?"
+      }, {
+        "ans1" : "Rút lui (withdrawing)",
+        "ans2" : "Kiểm soát",
+        "ans3" : "Tổ chức(organizing)",
+        "ans4" : "Trực tiếp",
+        "answer" : "Rút lui (withdrawing)",
+        "question" : "TKỹ thuật giải quyết xung đột có thể đc sử dụng trong dự án bao gồm: đối đầu, làm bình lặng (smoothing), vũ lực và"
+      }, {
+        "ans1" : "Thương lượng lại về phần còn lại của hợp đồng",
+        "ans2" : "Gặp các bên có liên quan",
+        "ans3" : "Theo sau hệ thống kiểm soát thay đổi",
+        "ans4" : "Gặp đội dự án",
+        "answer" : "Theo sau hệ thống kiểm soát thay đổi",
+        "question" : "Một PM đang quản lý một hợp đồng có giá sẵn (fixed price contract). Cô ấy nghĩ rằng một thay đổi lớn từ yêu cầu của khách hàng sẽ ảnh hưởng tới lịch trình dự án. Cô ấy nên làm gì đầu tiên?"
+      }, {
+        "ans1" : "Hoàn thành phê chuẩn phạm vi dự án",
+        "ans2" : "Bắt đầu hoàn thành gói công việc",
+        "ans3" : "Bắt đầu tạo ra các kế hoạch quản lý",
+        "ans4" : "Bắt đầu kết hợp điều khiển thay đổi",
+        "answer" : "Bắt đầu tạo ra các kế hoạch quản lý",
+        "question" : "Nhà tài trợ dự án vừa cung cấp bản tuyên bố phạm vi dự án sơ bộ. việc phải làm tiếp theo là"
+      } ],
+      "Đề 4" : [ null, {
+        "ans1" : "Các hợp đồng nên bao gồm các thủ tục phù hợp với các thay đổi",
+        "ans2" : "Các thay đổi hiếm khi cung cấp lợi ích thực cho dự án",
+        "ans3" : "Các thông số càng chi tiết sẽloại trừ các nguyên nhân thay đổi",
+        "ans4" : "Một hợp đồng giá cố định (fixed) sẽlàm giảm sựcần thiết phải kiểm soát thay đổi",
+        "answer" : "Các hợp đồng nên bao gồm các thủ tục phù hợp với các thay đổi",
+        "question" : "Tuyên bố nào dưới đây về kiểm soát thay đổi là đúng?"
+      }, {
+        "ans1" : "Người quản lý dự án PM",
+        "ans2" : "Người quản lý bộ phận chức năng functional manager",
+        "ans3" : "Đội dự án đều có quyền như nhau",
+        "ans4" : "Đội dự án",
+        "answer" : "Người quản lý dự án PM",
+        "question" : "Ai có nhiều thẩm quyền nhất trong một tổ chức hướng dự án (projectized organization)"
+      }, {
+        "ans1" : "Tạm thời",
+        "ans2" : "Có thời gian bắt đầu và kết thúc xác định",
+        "ans3" : "Có các hoạt động liên quan tới nhau",
+        "ans4" : "Lặp lại công việc dự án mỗi tháng. (repeat itself every month)",
+        "answer" : "Lặp lại công việc dự án mỗi tháng. (repeat itself every month)",
+        "question" : "Tính chất nào dưới đây không phải là tính chất của một dự án"
+      }, {
+        "ans1" : "Much time remains in the project",
+        "ans2" : "Far the estimate is from the highest estimate",
+        "ans3" : "Far the measurement is from the mean",
+        "ans4" : "Correct the sample is",
+        "answer" : "Far the measurement is from the mean",
+        "question" : "Độ lệch tiêu chuẩn là một thước đo có tính chất:"
+      }, {
+        "ans1" : "Sắp xếp các hành động",
+        "ans2" : "Hoàn thành quản lý rủi ro",
+        "ans3" : "Xác minh rằng phạm vi chuẩn đã có (verify that they have the correct scope)",
+        "ans4" : "Tạo ra lịch trình sơ bộ và lấy phê chuẩn từ đội dự án",
+        "answer" : "Tạo ra lịch trình sơ bộ và lấy phê chuẩn từ đội dự án",
+        "question" : "WBS, ước tính cho từng gói công việc, và sơ đồ mạng đều đã hoàn thành. Người PM nên làm gì tiếp theo?"
+      }, {
+        "ans1" : "Sơ đồ xương cá",
+        "ans2" : "Phân tích quy trình",
+        "ans3" : "Sơ đồ Pareto",
+        "ans4" : "Giám định",
+        "answer" : "Phân tích quy trình",
+        "question" : "Điều nào dưới đây không phải là đảm bảo chất lượng?"
+      }, {
+        "ans1" : "Xác nhận việc thực hiện của các yêu cầu thay đổi đã đc phê chuẩn",
+        "ans2" : "Xác định sự không hiệu quả và các chính sách không hiệu quả",
+        "ans3" : "Sửa chữa các khiếm khuyết đc xác định",
+        "ans4" : "Xác định các hoạt động dự án có tuân theo chính sách của tổ chức hay không",
+        "answer" : "Sửa chữa các khiếm khuyết đc xác định",
+        "question" : "Điều nào dưới đây không phải là thành phần của kiểm tra chất lượng?"
+      }, {
+        "ans1" : "Rút lui (withdrawing)",
+        "ans2" : "Kiểm soát",
+        "ans3" : "Tổ chức(organizing)",
+        "ans4" : "Trực tiếp",
+        "answer" : "Rút lui (withdrawing)",
+        "question" : "TKỹ thuật giải quyết xung đột có thể đc sử dụng trong dự án bao gồm: đối đầu, làm bình lặng (smoothing), vũ lực và"
+      }, {
+        "ans1" : "Thương lượng lại về phần còn lại của hợp đồng",
+        "ans2" : "Gặp các bên có liên quan",
+        "ans3" : "Theo sau hệ thống kiểm soát thay đổi",
+        "ans4" : "Gặp đội dự án",
+        "answer" : "Theo sau hệ thống kiểm soát thay đổi",
+        "question" : "Một PM đang quản lý một hợp đồng có giá sẵn (fixed price contract). Cô ấy nghĩ rằng một thay đổi lớn từ yêu cầu của khách hàng sẽ ảnh hưởng tới lịch trình dự án. Cô ấy nên làm gì đầu tiên?"
+      }, {
+        "ans1" : "Hoàn thành phê chuẩn phạm vi dự án",
+        "ans2" : "Bắt đầu hoàn thành gói công việc",
+        "ans3" : "Bắt đầu tạo ra các kế hoạch quản lý",
+        "ans4" : "Bắt đầu kết hợp điều khiển thay đổi",
+        "answer" : "Bắt đầu tạo ra các kế hoạch quản lý",
+        "question" : "Nhà tài trợ dự án vừa cung cấp bản tuyên bố phạm vi dự án sơ bộ. việc phải làm tiếp theo là"
+      } ]
+    },
+    "Wul" : {
+      "Đề 1" : [ null, {
+        "ans1" : "ifconfig eth0 up",
+        "ans2" : "ifconfig eth0 start",
+        "ans3" : "ifconfig eth0 stop",
+        "ans4" : "ifconfig eth0 down",
+        "answer" : "ifconfig eth0 stop",
+        "question" : "Để tạm thời stop một card mạng ta dùng lệnh nào"
+      }, {
+        "ans1" : "16 con trỏ",
+        "ans2" : "10 con trỏ",
+        "ans3" : "13 con trỏ",
+        "ans4" : "Không câu nào đúng",
+        "answer" : "Không câu nào đúng",
+        "question" : "Cấu trúc inode trong extfs, bao gồm"
+      }, {
+        "ans1" : "Tên đầy đủ (Full Name)",
+        "ans2" : "Shell",
+        "ans3" : "Tên đăng nhập",
+        "ans4" : "Mã nhận diện tài khoản (UID)",
+        "answer" : "Tên đăng nhập",
+        "question" : "Khi tạo một tài khoản người dùng, thông tin nào bắt buộc phải được cung cấp"
+      }, {
+        "ans1" : "-n",
+        "ans2" : "-b",
+        "ans3" : "-1",
+        "ans4" : "-a",
+        "answer" : "-a",
+        "question" : "Để liệt kê các file ẩn trong thư mục hiện hành theo ta dùng lệnh ls với tham số"
+      }, {
+        "ans1" : "chmod 757 myfile",
+        "ans2" : "chmod 750 myfile",
+        "ans3" : "chmod 027 myfile",
+        "ans4" : "Không câu nào đúng",
+        "answer" : "chmod 750 myfile",
+        "question" : "Lệnh nào tương đương với lệnh sau “chmod u+rwx,g=rx,o-rwx myfile”"
+      }, {
+        "ans1" : "-l",
+        "ans2" : "-a",
+        "ans3" : "-n",
+        "ans4" : "-x",
+        "answer" : "-l",
+        "question" : "Để liệt kê đầy đủ thông tin của các file có trong thư mục hiện hành theo ta dùng lệnh ls với tham số"
+      }, {
+        "ans1" : "Trạng thái của mạng",
+        "ans2" : "Tên máy tính và default gateway",
+        "ans3" : "Các script dùng trong kết nối PPP và SLIP",
+        "ans4" : "Các thiết bị được sử dụng để kết nối mạng",
+        "answer" : "Tên máy tính và default gateway",
+        "question" : "Tập tin /etc/sysconfig/network có chứa thông tin về"
+      }, {
+        "ans1" : "cp data odd > new",
+        "ans2" : "cp data odd >> new",
+        "ans3" : "cat data odd > new",
+        "ans4" : "Tất cả đều đúng",
+        "answer" : "cat data odd > new",
+        "question" : "Để tạo tập tin “new” chứa nội dung của hai tập tin “data” và “odd”, ta dùng lệnh"
+      }, {
+        "ans1" : "Level 0",
+        "ans2" : "Level 5",
+        "ans3" : "Level 3",
+        "ans4" : "Level 6",
+        "answer" : "Level 0",
+        "question" : "Run level nào là shutdown và halt hệ thống"
+      }, {
+        "ans1" : "df",
+        "ans2" : "du",
+        "ans3" : "df -a",
+        "ans4" : "du -a",
+        "answer" : "df -a",
+        "question" : "Để kiểm tra dung lượng đĩa cứng còn trống, ta dùng lệnh"
+      } ],
+      "Đề 2" : [ null, {
+        "ans1" : "ifconfig eth0 up",
+        "ans2" : "ifconfig eth0 start",
+        "ans3" : "ifconfig eth0 stop",
+        "ans4" : "ifconfig eth0 down",
+        "answer" : "ifconfig eth0 stop",
+        "question" : "Để tạm thời stop một card mạng ta dùng lệnh nào"
+      }, {
+        "ans1" : "16 con trỏ",
+        "ans2" : "10 con trỏ",
+        "ans3" : "13 con trỏ",
+        "ans4" : "Không câu nào đúng",
+        "answer" : "Không câu nào đúng",
+        "question" : "Cấu trúc inode trong extfs, bao gồm"
+      }, {
+        "ans1" : "Tên đầy đủ (Full Name)",
+        "ans2" : "Shell",
+        "ans3" : "Tên đăng nhập",
+        "ans4" : "Mã nhận diện tài khoản (UID)",
+        "answer" : "Tên đăng nhập",
+        "question" : "Khi tạo một tài khoản người dùng, thông tin nào bắt buộc phải được cung cấp"
+      }, {
+        "ans1" : "-n",
+        "ans2" : "-b",
+        "ans3" : "-1",
+        "ans4" : "-a",
+        "answer" : "-a",
+        "question" : "Để liệt kê các file ẩn trong thư mục hiện hành theo ta dùng lệnh ls với tham số"
+      }, {
+        "ans1" : "chmod 757 myfile",
+        "ans2" : "chmod 750 myfile",
+        "ans3" : "chmod 027 myfile",
+        "ans4" : "Không câu nào đúng",
+        "answer" : "chmod 750 myfile",
+        "question" : "Lệnh nào tương đương với lệnh sau “chmod u+rwx,g=rx,o-rwx myfile”"
+      }, {
+        "ans1" : "-l",
+        "ans2" : "-a",
+        "ans3" : "-n",
+        "ans4" : "-x",
+        "answer" : "-l",
+        "question" : "Để liệt kê đầy đủ thông tin của các file có trong thư mục hiện hành theo ta dùng lệnh ls với tham số"
+      }, {
+        "ans1" : "Trạng thái của mạng",
+        "ans2" : "Tên máy tính và default gateway",
+        "ans3" : "Các script dùng trong kết nối PPP và SLIP",
+        "ans4" : "Các thiết bị được sử dụng để kết nối mạng",
+        "answer" : "Tên máy tính và default gateway",
+        "question" : "Tập tin /etc/sysconfig/network có chứa thông tin về"
+      }, {
+        "ans1" : "cp data odd > new",
+        "ans2" : "cp data odd >> new",
+        "ans3" : "cat data odd > new",
+        "ans4" : "Tất cả đều đúng",
+        "answer" : "cat data odd > new",
+        "question" : "Để tạo tập tin “new” chứa nội dung của hai tập tin “data” và “odd”, ta dùng lệnh"
+      }, {
+        "ans1" : "Level 0",
+        "ans2" : "Level 5",
+        "ans3" : "Level 3",
+        "ans4" : "Level 6",
+        "answer" : "Level 0",
+        "question" : "Run level nào là shutdown và halt hệ thống"
+      }, {
+        "ans1" : "df",
+        "ans2" : "du",
+        "ans3" : "df -a",
+        "ans4" : "du -a",
+        "answer" : "df -a",
+        "question" : "Để kiểm tra dung lượng đĩa cứng còn trống, ta dùng lệnh"
+      } ],
+      "Đề 3" : [ null, {
+        "ans1" : "ifconfig eth0 up",
+        "ans2" : "ifconfig eth0 start",
+        "ans3" : "ifconfig eth0 stop",
+        "ans4" : "ifconfig eth0 down",
+        "answer" : "ifconfig eth0 stop",
+        "question" : "Để tạm thời stop một card mạng ta dùng lệnh nào"
+      }, {
+        "ans1" : "16 con trỏ",
+        "ans2" : "10 con trỏ",
+        "ans3" : "13 con trỏ",
+        "ans4" : "Không câu nào đúng",
+        "answer" : "Không câu nào đúng",
+        "question" : "Cấu trúc inode trong extfs, bao gồm"
+      }, {
+        "ans1" : "Tên đầy đủ (Full Name)",
+        "ans2" : "Shell",
+        "ans3" : "Tên đăng nhập",
+        "ans4" : "Mã nhận diện tài khoản (UID)",
+        "answer" : "Tên đăng nhập",
+        "question" : "Khi tạo một tài khoản người dùng, thông tin nào bắt buộc phải được cung cấp"
+      }, {
+        "ans1" : "-n",
+        "ans2" : "-b",
+        "ans3" : "-1",
+        "ans4" : "-a",
+        "answer" : "-a",
+        "question" : "Để liệt kê các file ẩn trong thư mục hiện hành theo ta dùng lệnh ls với tham số"
+      }, {
+        "ans1" : "chmod 757 myfile",
+        "ans2" : "chmod 750 myfile",
+        "ans3" : "chmod 027 myfile",
+        "ans4" : "Không câu nào đúng",
+        "answer" : "chmod 750 myfile",
+        "question" : "Lệnh nào tương đương với lệnh sau “chmod u+rwx,g=rx,o-rwx myfile”"
+      }, {
+        "ans1" : "-l",
+        "ans2" : "-a",
+        "ans3" : "-n",
+        "ans4" : "-x",
+        "answer" : "-l",
+        "question" : "Để liệt kê đầy đủ thông tin của các file có trong thư mục hiện hành theo ta dùng lệnh ls với tham số"
+      }, {
+        "ans1" : "Trạng thái của mạng",
+        "ans2" : "Tên máy tính và default gateway",
+        "ans3" : "Các script dùng trong kết nối PPP và SLIP",
+        "ans4" : "Các thiết bị được sử dụng để kết nối mạng",
+        "answer" : "Tên máy tính và default gateway",
+        "question" : "Tập tin /etc/sysconfig/network có chứa thông tin về"
+      }, {
+        "ans1" : "cp data odd > new",
+        "ans2" : "cp data odd >> new",
+        "ans3" : "cat data odd > new",
+        "ans4" : "Tất cả đều đúng",
+        "answer" : "cat data odd > new",
+        "question" : "Để tạo tập tin “new” chứa nội dung của hai tập tin “data” và “odd”, ta dùng lệnh"
+      }, {
+        "ans1" : "Level 0",
+        "ans2" : "Level 5",
+        "ans3" : "Level 3",
+        "ans4" : "Level 6",
+        "answer" : "Level 0",
+        "question" : "Run level nào là shutdown và halt hệ thống"
+      }, {
+        "ans1" : "df",
+        "ans2" : "du",
+        "ans3" : "df -a",
+        "ans4" : "du -a",
+        "answer" : "df -a",
+        "question" : "Để kiểm tra dung lượng đĩa cứng còn trống, ta dùng lệnh"
+      } ],
+      "Đề 4" : [ null, {
+        "ans1" : "ifconfig eth0 up",
+        "ans2" : "ifconfig eth0 start",
+        "ans3" : "ifconfig eth0 stop",
+        "ans4" : "ifconfig eth0 down",
+        "answer" : "ifconfig eth0 stop",
+        "question" : "Để tạm thời stop một card mạng ta dùng lệnh nào"
+      }, {
+        "ans1" : "16 con trỏ",
+        "ans2" : "10 con trỏ",
+        "ans3" : "13 con trỏ",
+        "ans4" : "Không câu nào đúng",
+        "answer" : "Không câu nào đúng",
+        "question" : "Cấu trúc inode trong extfs, bao gồm"
+      }, {
+        "ans1" : "Tên đầy đủ (Full Name)",
+        "ans2" : "Shell",
+        "ans3" : "Tên đăng nhập",
+        "ans4" : "Mã nhận diện tài khoản (UID)",
+        "answer" : "Tên đăng nhập",
+        "question" : "Khi tạo một tài khoản người dùng, thông tin nào bắt buộc phải được cung cấp"
+      }, {
+        "ans1" : "-n",
+        "ans2" : "-b",
+        "ans3" : "-1",
+        "ans4" : "-a",
+        "answer" : "-a",
+        "question" : "Để liệt kê các file ẩn trong thư mục hiện hành theo ta dùng lệnh ls với tham số"
+      }, {
+        "ans1" : "chmod 757 myfile",
+        "ans2" : "chmod 750 myfile",
+        "ans3" : "chmod 027 myfile",
+        "ans4" : "Không câu nào đúng",
+        "answer" : "chmod 750 myfile",
+        "question" : "Lệnh nào tương đương với lệnh sau “chmod u+rwx,g=rx,o-rwx myfile”"
+      }, {
+        "ans1" : "-l",
+        "ans2" : "-a",
+        "ans3" : "-n",
+        "ans4" : "-x",
+        "answer" : "-l",
+        "question" : "Để liệt kê đầy đủ thông tin của các file có trong thư mục hiện hành theo ta dùng lệnh ls với tham số"
+      }, {
+        "ans1" : "Trạng thái của mạng",
+        "ans2" : "Tên máy tính và default gateway",
+        "ans3" : "Các script dùng trong kết nối PPP và SLIP",
+        "ans4" : "Các thiết bị được sử dụng để kết nối mạng",
+        "answer" : "Tên máy tính và default gateway",
+        "question" : "Tập tin /etc/sysconfig/network có chứa thông tin về"
+      }, {
+        "ans1" : "cp data odd > new",
+        "ans2" : "cp data odd >> new",
+        "ans3" : "cat data odd > new",
+        "ans4" : "Tất cả đều đúng",
+        "answer" : "cat data odd > new",
+        "question" : "Để tạo tập tin “new” chứa nội dung của hai tập tin “data” và “odd”, ta dùng lệnh"
+      }, {
+        "ans1" : "Level 0",
+        "ans2" : "Level 5",
+        "ans3" : "Level 3",
+        "ans4" : "Level 6",
+        "answer" : "Level 0",
+        "question" : "Run level nào là shutdown và halt hệ thống"
+      }, {
+        "ans1" : "df",
+        "ans2" : "du",
+        "ans3" : "df -a",
+        "ans4" : "du -a",
+        "answer" : "df -a",
+        "question" : "Để kiểm tra dung lượng đĩa cứng còn trống, ta dùng lệnh"
+      } ]
+    },
+    "Xstk" : {
+      "Đề 1" : [ null, {
+        "ans1" : "5,4",
+        "ans2" : "7,6",
+        "ans3" : "6,2",
+        "ans4" : "6,8",
+        "answer" : "7,6",
+        "question" : "Cho X và Y là hai biến ngẫu nhiên độc lập có phương sai lần lượt là D(X)=1,2 và D(Y)=1,6. Khi đó phương sai D(X−2Y) bằng"
+      }, {
+        "ans1" : "1/5",
+        "ans2" : "3/5",
+        "ans3" : "1/2",
+        "ans4" : "2/3",
+        "answer" : "1/2",
+        "question" : "Chọn ngẫu nhiên 3 bạn từ một tổ có 6 bạn nam và 4 bạn nữ để làm trực nhật. Xác suất để có đúng 2 bạn là nam bằng"
+      }, {
+        "ans1" : "3",
+        "ans2" : "4",
+        "ans3" : "5",
+        "ans4" : "6",
+        "answer" : "6",
+        "question" : "Cho biến ngẫu nhiên X có phân bố nhị thức B(10;0,2). Tính kỳ vọng  E(2X+2)"
+      }, {
+        "ans1" : "0,1",
+        "ans2" : "0,2",
+        "ans3" : "0,3",
+        "ans4" : "0,5",
+        "answer" : "0,5",
+        "question" : "Cho hai biến cố A,B có P(B)=0,6 và P(AB)=0,2. Khi đó xác suất P(A|B) bằng"
+      }, {
+        "ans1" : "0,125",
+        "ans2" : "0,0515",
+        "ans3" : "0,145",
+        "ans4" : "0,185",
+        "answer" : "0,185",
+        "question" : "Một xưởng có 2 máy I, II hoạt động độc lập. Trong một ngày làm việc xác suất để máy I, II bị hỏng tương ứng là 0,1 và 0,05. Biết trong một ngày làm việc xưởng có máy hỏng, khi đó xác suất để máy I bị hỏng xấp xỉ bằng"
+      }, {
+        "ans1" : "3",
+        "ans2" : "5",
+        "ans3" : "7",
+        "ans4" : "9",
+        "answer" : "5",
+        "question" : "Cho biến ngẫu nhiên X có phân bố nhị thức B(10;0,4). Tính kỳ vọng  E(2X−3)"
+      }, {
+        "ans1" : "5,4",
+        "ans2" : "7,6",
+        "ans3" : "6,2",
+        "ans4" : "6,8",
+        "answer" : "7,6",
+        "question" : "Cho X và Y là hai biến ngẫu nhiên độc lập có phương sai lần lượt là D(X)=1,2 và D(Y)=1,6. Khi đó phương sai D(X−2Y) bằng"
+      }, {
+        "ans1" : "4/5",
+        "ans2" : "3/5",
+        "ans3" : "2/3",
+        "ans4" : "1/3",
+        "answer" : "1/3",
+        "question" : "Trong hộp có 10 viên bi cùng kích cỡ, gồm 6 bi trắng và 4 bi đen. Lấy ngẫu nhiên trong hộp ra hai viên bi. Xác suất để cả hai viên bi đều trắng là"
+      }, {
+        "ans1" : "1/8",
+        "ans2" : "4/9",
+        "ans3" : "5/8",
+        "ans4" : "3/4",
+        "answer" : "3/4",
+        "question" : "Cho biến ngẫu nhiên X có phân bố mũ với D(X)=0,25. Gọi F(x) là hàm phân bố xác suất của X, tính  F(ln2)"
+      }, {
+        "ans1" : "8,32",
+        "ans2" : "9,76",
+        "ans3" : "15,04",
+        "ans4" : "12,32",
+        "answer" : "15,04",
+        "question" : "Cho X và Y là hai biến ngẫu nhiên độc lập có phương sai lần lượt là D(X)=1,6 và D(Y)=3,36. Khi đó phương sai D(X−2Y) bằng"
+      } ],
+      "Đề 2" : [ null, {
+        "ans1" : "5,4",
+        "ans2" : "7,6",
+        "ans3" : "6,2",
+        "ans4" : "6,8",
+        "answer" : "7,6",
+        "question" : "Cho X và Y là hai biến ngẫu nhiên độc lập có phương sai lần lượt là D(X)=1,2 và D(Y)=1,6. Khi đó phương sai D(X−2Y) bằng"
+      }, {
+        "ans1" : "1/5",
+        "ans2" : "3/5",
+        "ans3" : "1/2",
+        "ans4" : "2/3",
+        "answer" : "1/2",
+        "question" : "Chọn ngẫu nhiên 3 bạn từ một tổ có 6 bạn nam và 4 bạn nữ để làm trực nhật. Xác suất để có đúng 2 bạn là nam bằng"
+      }, {
+        "ans1" : "3",
+        "ans2" : "4",
+        "ans3" : "5",
+        "ans4" : "6",
+        "answer" : "6",
+        "question" : "Cho biến ngẫu nhiên X có phân bố nhị thức B(10;0,2). Tính kỳ vọng  E(2X+2)"
+      }, {
+        "ans1" : "0,1",
+        "ans2" : "0,2",
+        "ans3" : "0,3",
+        "ans4" : "0,5",
+        "answer" : "0,5",
+        "question" : "Cho hai biến cố A,B có P(B)=0,6 và P(AB)=0,2. Khi đó xác suất P(A|B) bằng"
+      }, {
+        "ans1" : "0,125",
+        "ans2" : "0,0515",
+        "ans3" : "0,145",
+        "ans4" : "0,185",
+        "answer" : "0,185",
+        "question" : "Một xưởng có 2 máy I, II hoạt động độc lập. Trong một ngày làm việc xác suất để máy I, II bị hỏng tương ứng là 0,1 và 0,05. Biết trong một ngày làm việc xưởng có máy hỏng, khi đó xác suất để máy I bị hỏng xấp xỉ bằng"
+      }, {
+        "ans1" : "3",
+        "ans2" : "5",
+        "ans3" : "7",
+        "ans4" : "9",
+        "answer" : "5",
+        "question" : "Cho biến ngẫu nhiên X có phân bố nhị thức B(10;0,4). Tính kỳ vọng  E(2X−3)"
+      }, {
+        "ans1" : "5,4",
+        "ans2" : "7,6",
+        "ans3" : "6,2",
+        "ans4" : "6,8",
+        "answer" : "7,6",
+        "question" : "Cho X và Y là hai biến ngẫu nhiên độc lập có phương sai lần lượt là D(X)=1,2 và D(Y)=1,6. Khi đó phương sai D(X−2Y) bằng"
+      }, {
+        "ans1" : "4/5",
+        "ans2" : "3/5",
+        "ans3" : "2/3",
+        "ans4" : "1/3",
+        "answer" : "1/3",
+        "question" : "Trong hộp có 10 viên bi cùng kích cỡ, gồm 6 bi trắng và 4 bi đen. Lấy ngẫu nhiên trong hộp ra hai viên bi. Xác suất để cả hai viên bi đều trắng là"
+      }, {
+        "ans1" : "1/8",
+        "ans2" : "4/9",
+        "ans3" : "5/8",
+        "ans4" : "3/4",
+        "answer" : "3/4",
+        "question" : "Cho biến ngẫu nhiên X có phân bố mũ với D(X)=0,25. Gọi F(x) là hàm phân bố xác suất của X, tính  F(ln2)"
+      }, {
+        "ans1" : "8,32",
+        "ans2" : "9,76",
+        "ans3" : "15,04",
+        "ans4" : "12,32",
+        "answer" : "15,04",
+        "question" : "Cho X và Y là hai biến ngẫu nhiên độc lập có phương sai lần lượt là D(X)=1,6 và D(Y)=3,36. Khi đó phương sai D(X−2Y) bằng"
+      } ],
+      "Đề 3" : [ null, {
+        "ans1" : "5,4",
+        "ans2" : "7,6",
+        "ans3" : "6,2",
+        "ans4" : "6,8",
+        "answer" : "7,6",
+        "question" : "Cho X và Y là hai biến ngẫu nhiên độc lập có phương sai lần lượt là D(X)=1,2 và D(Y)=1,6. Khi đó phương sai D(X−2Y) bằng"
+      }, {
+        "ans1" : "1/5",
+        "ans2" : "3/5",
+        "ans3" : "1/2",
+        "ans4" : "2/3",
+        "answer" : "1/2",
+        "question" : "Chọn ngẫu nhiên 3 bạn từ một tổ có 6 bạn nam và 4 bạn nữ để làm trực nhật. Xác suất để có đúng 2 bạn là nam bằng"
+      }, {
+        "ans1" : "3",
+        "ans2" : "4",
+        "ans3" : "5",
+        "ans4" : "6",
+        "answer" : "6",
+        "question" : "Cho biến ngẫu nhiên X có phân bố nhị thức B(10;0,2). Tính kỳ vọng  E(2X+2)"
+      }, {
+        "ans1" : "0,1",
+        "ans2" : "0,2",
+        "ans3" : "0,3",
+        "ans4" : "0,5",
+        "answer" : "0,5",
+        "question" : "Cho hai biến cố A,B có P(B)=0,6 và P(AB)=0,2. Khi đó xác suất P(A|B) bằng"
+      }, {
+        "ans1" : "0,125",
+        "ans2" : "0,0515",
+        "ans3" : "0,145",
+        "ans4" : "0,185",
+        "answer" : "0,185",
+        "question" : "Một xưởng có 2 máy I, II hoạt động độc lập. Trong một ngày làm việc xác suất để máy I, II bị hỏng tương ứng là 0,1 và 0,05. Biết trong một ngày làm việc xưởng có máy hỏng, khi đó xác suất để máy I bị hỏng xấp xỉ bằng"
+      }, {
+        "ans1" : "3",
+        "ans2" : "5",
+        "ans3" : "7",
+        "ans4" : "9",
+        "answer" : "5",
+        "question" : "Cho biến ngẫu nhiên X có phân bố nhị thức B(10;0,4). Tính kỳ vọng  E(2X−3)"
+      }, {
+        "ans1" : "5,4",
+        "ans2" : "7,6",
+        "ans3" : "6,2",
+        "ans4" : "6,8",
+        "answer" : "7,6",
+        "question" : "Cho X và Y là hai biến ngẫu nhiên độc lập có phương sai lần lượt là D(X)=1,2 và D(Y)=1,6. Khi đó phương sai D(X−2Y) bằng"
+      }, {
+        "ans1" : "4/5",
+        "ans2" : "3/5",
+        "ans3" : "2/3",
+        "ans4" : "1/3",
+        "answer" : "1/3",
+        "question" : "Trong hộp có 10 viên bi cùng kích cỡ, gồm 6 bi trắng và 4 bi đen. Lấy ngẫu nhiên trong hộp ra hai viên bi. Xác suất để cả hai viên bi đều trắng là"
+      }, {
+        "ans1" : "1/8",
+        "ans2" : "4/9",
+        "ans3" : "5/8",
+        "ans4" : "3/4",
+        "answer" : "3/4",
+        "question" : "Cho biến ngẫu nhiên X có phân bố mũ với D(X)=0,25. Gọi F(x) là hàm phân bố xác suất của X, tính  F(ln2)"
+      }, {
+        "ans1" : "8,32",
+        "ans2" : "9,76",
+        "ans3" : "15,04",
+        "ans4" : "12,32",
+        "answer" : "15,04",
+        "question" : "Cho X và Y là hai biến ngẫu nhiên độc lập có phương sai lần lượt là D(X)=1,6 và D(Y)=3,36. Khi đó phương sai D(X−2Y) bằng"
+      } ],
+      "Đề 4" : [ null, {
+        "ans1" : "5,4",
+        "ans2" : "7,6",
+        "ans3" : "6,2",
+        "ans4" : "6,8",
+        "answer" : "7,6",
+        "question" : "Cho X và Y là hai biến ngẫu nhiên độc lập có phương sai lần lượt là D(X)=1,2 và D(Y)=1,6. Khi đó phương sai D(X−2Y) bằng"
+      }, {
+        "ans1" : "1/5",
+        "ans2" : "3/5",
+        "ans3" : "1/2",
+        "ans4" : "2/3",
+        "answer" : "1/2",
+        "question" : "Chọn ngẫu nhiên 3 bạn từ một tổ có 6 bạn nam và 4 bạn nữ để làm trực nhật. Xác suất để có đúng 2 bạn là nam bằng"
+      }, {
+        "ans1" : "3",
+        "ans2" : "4",
+        "ans3" : "5",
+        "ans4" : "6",
+        "answer" : "6",
+        "question" : "Cho biến ngẫu nhiên X có phân bố nhị thức B(10;0,2). Tính kỳ vọng  E(2X+2)"
+      }, {
+        "ans1" : "0,1",
+        "ans2" : "0,2",
+        "ans3" : "0,3",
+        "ans4" : "0,5",
+        "answer" : "0,5",
+        "question" : "Cho hai biến cố A,B có P(B)=0,6 và P(AB)=0,2. Khi đó xác suất P(A|B) bằng"
+      }, {
+        "ans1" : "0,125",
+        "ans2" : "0,0515",
+        "ans3" : "0,145",
+        "ans4" : "0,185",
+        "answer" : "0,185",
+        "question" : "Một xưởng có 2 máy I, II hoạt động độc lập. Trong một ngày làm việc xác suất để máy I, II bị hỏng tương ứng là 0,1 và 0,05. Biết trong một ngày làm việc xưởng có máy hỏng, khi đó xác suất để máy I bị hỏng xấp xỉ bằng"
+      }, {
+        "ans1" : "3",
+        "ans2" : "5",
+        "ans3" : "7",
+        "ans4" : "9",
+        "answer" : "5",
+        "question" : "Cho biến ngẫu nhiên X có phân bố nhị thức B(10;0,4). Tính kỳ vọng  E(2X−3)"
+      }, {
+        "ans1" : "5,4",
+        "ans2" : "7,6",
+        "ans3" : "6,2",
+        "ans4" : "6,8",
+        "answer" : "7,6",
+        "question" : "Cho X và Y là hai biến ngẫu nhiên độc lập có phương sai lần lượt là D(X)=1,2 và D(Y)=1,6. Khi đó phương sai D(X−2Y) bằng"
+      }, {
+        "ans1" : "4/5",
+        "ans2" : "3/5",
+        "ans3" : "2/3",
+        "ans4" : "1/3",
+        "answer" : "1/3",
+        "question" : "Trong hộp có 10 viên bi cùng kích cỡ, gồm 6 bi trắng và 4 bi đen. Lấy ngẫu nhiên trong hộp ra hai viên bi. Xác suất để cả hai viên bi đều trắng là"
+      }, {
+        "ans1" : "1/8",
+        "ans2" : "4/9",
+        "ans3" : "5/8",
+        "ans4" : "3/4",
+        "answer" : "3/4",
+        "question" : "Cho biến ngẫu nhiên X có phân bố mũ với D(X)=0,25. Gọi F(x) là hàm phân bố xác suất của X, tính  F(ln2)"
+      }, {
+        "ans1" : "8,32",
+        "ans2" : "9,76",
+        "ans3" : "15,04",
+        "ans4" : "12,32",
+        "answer" : "15,04",
+        "question" : "Cho X và Y là hai biến ngẫu nhiên độc lập có phương sai lần lượt là D(X)=1,6 và D(Y)=3,36. Khi đó phương sai D(X−2Y) bằng"
+      } ]
+    }
+  },
+  "Users" : {
+    "a" : {
+      "email" : "a@gmail.com",
+      "password" : "1",
+      "username" : "a"
+    },
+    "asd" : {
+      "email" : "a@gmail.com",
+      "password" : "1",
+      "username" : "asd"
+    },
+    "namvu97" : {
+      "email" : "namvu97@gmail.com",
+      "password" : "nam123",
+      "username" : "namvu97"
+    },
+    "namvu9701" : {
+      "email" : "namvu9701@gmail.com",
+      "password" : "nam123",
+      "username" : "namvu9701"
+    },
+    "quyennh" : {
+      "email" : "nguyenhuuquyen6897@gmail.com",
+      "password" : "quyen123",
+      "username" : "quyennh"
+    },
+    "thang1997" : {
+      "email" : "thang1997@gmail.com",
+      "password" : "thang123",
+      "username" : "thang1997"
+    }
+  }
+}

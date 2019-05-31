@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ptitquiz">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+<<<<<<< HEAD
+        <activity android:name=".MyAppPTITQuiz.ResultGpa"
+            android:parentActivityName=".MyAppPTITQuiz.GPA"></activity>
+        <activity android:name=".MyAppPTITQuiz.GPA"
+            android:parentActivityName=".MyAppPTITQuiz.base"/>
+        <activity android:name=".Notification.NotifyQuiz" />
+        <activity
+            android:name=".Notification.NotificationEvery"
+            android:parentActivityName=".MyAppPTITQuiz.base" />
+        <activity android:name=".MyAppPTITQuiz.exam">
+            <intent-filter>
+                <action android:name="MyFirebaseService" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+=======
+        <activity android:name=".MyAppPTITQuiz.exam"></activity>
+>>>>>>> b59571816ec6d783cf6145b1344aed82bd808728
+        <activity
+            android:name=".About"
+            android:parentActivityName=".MyAppPTITQuiz.base" />
+        <activity android:name=".MyAppPTITQuiz.base" />
+        <activity
+            android:name=".MyAppPTITQuiz.CreateSchedule"
+            android:parentActivityName=".MyAppPTITQuiz.Scheduler" />
+        <activity
+            android:name=".MyAppPTITQuiz.Scheduler"
+            android:parentActivityName=".MyAppPTITQuiz.base" />
+        <activity android:name=".MyAppPTITQuiz.review_test" />
+        <activity
+            android:name=".MyAppPTITQuiz.start_review"
+            android:parentActivityName=".MyAppPTITQuiz.selectsubject" />
+        <activity
+            android:name=".MyAppPTITQuiz.selectsubject"
+            android:parentActivityName=".MyAppPTITQuiz.homeActivity" />
+        <activity android:name=".MyAppPTITQuiz.result_review" />
+<<<<<<< HEAD
+        <activity android:name=".MyAppPTITQuiz.IntroApp">
+=======
+        <activity android:name=".MyAppPTITQuiz.IntroApp" />
+        <activity
+            android:name=".MyAppPTITQuiz.start_quiz"
+            android:parentActivityName=".MyAppPTITQuiz.selectsubject">
+            <intent-filter>
+                <action android:name="MyFirebaseService" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MyAppPTITQuiz.time_up" />
+        <activity android:name=".MyAppPTITQuiz.result" />
+        <activity android:name=".MyAppPTITQuiz.quiz_test" />
+        <activity
+            android:name=".MyAppPTITQuiz.homeActivity"
+            android:parentActivityName=".MyAppPTITQuiz.base" />
+        <activity android:name=".MyAppPTITQuiz.MainActivity">
+>>>>>>> b59571816ec6d783cf6145b1344aed82bd808728
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MyAppPTITQuiz.start_quiz"
+            android:parentActivityName=".MyAppPTITQuiz.selectsubject" />
+        <activity android:name=".MyAppPTITQuiz.time_up" />
+        <activity android:name=".MyAppPTITQuiz.result" />
+        <activity android:name=".MyAppPTITQuiz.quiz_test" />
+        <activity
+            android:name=".MyAppPTITQuiz.homeActivity"
+            android:parentActivityName=".MyAppPTITQuiz.base" />
+        <activity android:name=".MyAppPTITQuiz.MainActivity" />
+
+        <receiver
+            android:name=".MyAppPTITQuiz.MyAlarm"
+            android:enabled="true"
+            android:exported="true" />
+
+        <receiver
+            android:name=".MyAppPTITQuiz.MyAlarm"
+            android:enabled="true"
+            android:exported="true" />
+
+        <service android:name=".Notification.MyFirebaseService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".Service.StartService" />
+    </application>
+
+</manifest>

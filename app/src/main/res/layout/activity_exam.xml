@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context=".MyAppPTITQuiz.exam"
+    android:background="@drawable/wall1">
+    <TableLayout
+        android:id="@+id/tableExam"
+        android:layout_marginTop="358dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TableRow>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sinh viên"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:background="@drawable/cell_shape"
+                android:textColor="#000000"/>
+            <TextView
+                android:id="@+id/txtSV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Tên Sinh viên"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:background="@drawable/cell_shape"
+                android:textColor="#000000"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:text="Môn thi"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:background="@drawable/cell_shape"
+                android:textColor="#000000"/>
+            <TextView
+                android:id="@+id/txtMT"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:hint="Tên môn thi"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:background="@drawable/cell_shape"
+                android:textColor="#000000"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+<<<<<<< HEAD
+                android:text="Mã đề thi"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:background="@drawable/cell_shape"
+                android:textColor="#000000"/>
+            <TextView
+                android:id="@+id/txtMDT"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:hint="Mã đề thi"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:background="@drawable/cell_shape"
+                android:textColor="#000000"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+=======
+>>>>>>> b59571816ec6d783cf6145b1344aed82bd808728
+                android:text="Hình thức thi"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:background="@drawable/cell_shape"
+                android:textColor="#000000"/>
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:text="Trắc nghiệm"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:background="@drawable/cell_shape"
+                android:textColor="#000000"/>
+        </TableRow>
+    </TableLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="Bắt đầu thi"
+        android:id="@+id/btnExam"
+        android:textSize="23sp"
+        android:layout_below="@+id/tableExam"
+        android:layout_marginTop="40dp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:textColor="#197272"
+        />
+</RelativeLayout>
